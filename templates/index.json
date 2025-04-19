@@ -87,8 +87,8 @@
         "animation_duration": 44,
         "animation_direction": "right",
         "pause_hover": false,
-        "bg": "#000000",
-        "text_color": "#fff",
+        "bg": "#fdeef2",
+        "text_color": "#000000",
         "hover_opacity": 90,
         "padding_horizontal": 2,
         "padding_vertical": 1.5
