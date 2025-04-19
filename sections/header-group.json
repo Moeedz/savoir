@@ -35,10 +35,11 @@
       "settings": {
         "sticky_header": true,
         "enable_search": true,
+        "logo": "shopify://shop_images/JENNY_SPREI_LOGO_SAVOIR.png",
         "logo-placement": "center",
-        "logo_max_width": 235,
+        "logo_max_width": 190,
         "logo_max_width_mobile": 120,
-        "logo_padding": 0,
+        "logo_padding": 20,
         "mobile_social_icons": true,
         "show_icons": true,
         "cart-style": "shopping-bag",
