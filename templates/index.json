@@ -357,6 +357,181 @@
         "padding_sides_mobile": 1.5,
         "section-width": 120
       }
+    },
+    "ss_testimonial_6_qhJCwJ": {
+      "type": "ss-testimonial-6",
+      "blocks": {
+        "testimonial_Y9aWVL": {
+          "type": "testimonial",
+          "settings": {
+            "text": "Quality",
+            "rating": 4.8
+          }
+        },
+        "testimonial_xGgpiQ": {
+          "type": "testimonial",
+          "settings": {
+            "text": "Durability",
+            "rating": 4.7
+          }
+        },
+        "testimonial_9AttqN": {
+          "type": "testimonial",
+          "settings": {
+            "text": "Design",
+            "rating": 4.5
+          }
+        },
+        "testimonial_ezaqHW": {
+          "type": "testimonial",
+          "settings": {
+            "text": "Value for money",
+            "rating": 4.8
+          }
+        },
+        "image_8MqjXW": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_APpnxE": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_CWp4R8": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_4EpXRY": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_HNgz8n": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_3Hca9h": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_WnMfYp": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_pDULnq": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_PJAAgE": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "testimonial_Y9aWVL",
+        "testimonial_xGgpiQ",
+        "testimonial_9AttqN",
+        "testimonial_ezaqHW",
+        "image_8MqjXW",
+        "image_APpnxE",
+        "image_CWp4R8",
+        "image_4EpXRY",
+        "image_HNgz8n",
+        "image_3Hca9h",
+        "image_WnMfYp",
+        "image_pDULnq",
+        "image_PJAAgE"
+      ],
+      "settings": {
+        "heading": "<h2><strong>5000+</strong> PEOPLE LOVE US</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 54,
+        "heading_size_mobile": 32,
+        "heading_height": 130,
+        "heading_align": "left",
+        "heading_align_mobile": "center",
+        "testimonials_mt": 24,
+        "testimonials_item_padding_vertical": 24,
+        "testimonials_item_border_thickness": 1,
+        "testimonial_text_custom": false,
+        "testimonial_text_font": "josefin_sans_n4",
+        "testimonial_text_size": 20,
+        "testimonial_text_size_mobile": 16,
+        "testimonial_text_height": 100,
+        "testimonial_rating_custom": false,
+        "testimonial_rating_font": "josefin_sans_n4",
+        "testimonial_rating_size": 24,
+        "testimonial_rating_size_mobile": 18,
+        "testimonial_rating_height": 100,
+        "stars_size": 24,
+        "button": "GET $10 OFF FIRST ORDER",
+        "button_url": "",
+        "button_use_icon": false,
+        "button_use_shadow": false,
+        "button_use_hover": false,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 24,
+        "button_size_mobile": 16,
+        "button_height": 100,
+        "button_align": "left",
+        "button_align_mobile": "center",
+        "button_mt": 48,
+        "button_padding_vertical": 20,
+        "button_padding_horizontal": 32,
+        "button_radius": 48,
+        "button_border_thickness": 3,
+        "text": "Free Shipping | 100% Smile Guarantee",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 130,
+        "text_align": "left",
+        "text_align_mobile": "center",
+        "text_mt": 24,
+        "image_row": 3,
+        "image_row_mobile": 3,
+        "image_show_mobile": 4,
+        "image_gap": 24,
+        "image_gap_mobile": 24,
+        "image_padding": 8,
+        "image_radius": 16,
+        "image_border_thickness": 1,
+        "image_shadow": true,
+        "image_rotate": true,
+        "heading_color": "#000000",
+        "heading_other_color": "#fda82b",
+        "testimonials_item_border_color": "#232529",
+        "testimonial_text_color": "#232529",
+        "testimonial_rating_color": "#232529",
+        "stars_color": "#fda82b",
+        "button_color": "#232529",
+        "button_hover_color": "#232529",
+        "button_bg_color": "#fda82b",
+        "button_bg_gradient_color": "linear-gradient(180deg, rgba(255, 255, 85, 1), rgba(253, 168, 43, 1) 100%)",
+        "button_bg_hover_color": "#fda82b",
+        "button_bg_gradient_hover_color": "linear-gradient(180deg, rgba(255, 255, 85, 1), rgba(253, 168, 43, 1) 100%)",
+        "button_border_color": "#FFFFFF",
+        "button_border_hover_color": "#FFFFFF",
+        "text_color": "#232529",
+        "image_bg": "#FFFFFF",
+        "image_border_color": "#fda82b",
+        "image_shadow_color": "#fda82b",
+        "background_color": "#FFEFD9",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 130,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
@@ -366,6 +541,7 @@
     "ss_slider_2_p6a6iH",
     "image_image_with_text_HBUq4a",
     "image_image_with_text_QF6ccX",
-    "ss_featured_collection_tabs_jqxz3V"
+    "ss_featured_collection_tabs_jqxz3V",
+    "ss_testimonial_6_qhJCwJ"
   ]
 }
