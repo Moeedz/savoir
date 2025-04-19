@@ -248,6 +248,115 @@
         "button_label": "",
         "button_link": ""
       }
+    },
+    "ss_featured_collection_tabs_jqxz3V": {
+      "type": "ss-featured-collection-tabs",
+      "blocks": {
+        "collection_t67RRM": {
+          "type": "collection",
+          "settings": {
+            "title": "Best Sellers",
+            "collection": "",
+            "product_limit": 6,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": false,
+            "product_image_orientation": "square",
+            "button_mt": 48,
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/all"
+          }
+        },
+        "collection_h9ekE6": {
+          "type": "collection",
+          "settings": {
+            "title": "New Arrivals",
+            "collection": "",
+            "product_limit": 6,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": false,
+            "product_image_orientation": "square",
+            "button_mt": 48,
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/all"
+          }
+        },
+        "collection_Vp8XhT": {
+          "type": "collection",
+          "settings": {
+            "title": "Analog",
+            "collection": "",
+            "product_limit": 6,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": false,
+            "product_image_orientation": "square",
+            "button_mt": 48,
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/all"
+          }
+        },
+        "collection_a3MTKH": {
+          "type": "collection",
+          "settings": {
+            "title": "Objects",
+            "collection": "",
+            "product_limit": 6,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": false,
+            "product_image_orientation": "square",
+            "button_mt": 48,
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_t67RRM",
+        "collection_h9ekE6",
+        "collection_Vp8XhT",
+        "collection_a3MTKH"
+      ],
+      "settings": {
+        "tabs_color": "#7e7e7e",
+        "tabs_color_active": "#000000",
+        "tabs_size": 18,
+        "tabs_size_mobile": 14,
+        "tabs_padding_bottom": 16,
+        "tabs_align": "center",
+        "tabs_spacing": 48,
+        "tabs_spacing_mobile": 36,
+        "tabs_margin_bottom": 40,
+        "secondary_image_hover": true,
+        "image_roundness": 0,
+        "image_gap": 20,
+        "product_title_size": 14,
+        "product_title_line_height": 1.3,
+        "product_title_color": "#212121",
+        "product_price_size": 14,
+        "discounted_price_color": "#ff3451",
+        "normal_price_color": "#212121",
+        "button_color": "#FFFFFF",
+        "button_background_color": "#000000",
+        "button_color_hover": "#FFFFFF",
+        "button_background_color_hover": "#000000",
+        "button_border_color": "#FFFFFF",
+        "button_height": 44,
+        "button_width": 200,
+        "button_font_size": 16,
+        "button_border_radius": 2,
+        "button_border_thickness": 0,
+        "background-color": "#FFFFFF",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 56,
+        "padding_bottom": 36,
+        "padding_sides": 5,
+        "padding_sides_mobile": 1.5,
+        "section-width": 120
+      }
     }
   },
   "order": [
@@ -256,6 +365,7 @@
     "ss_scrolling_announcement_bar_E7fcJa",
     "ss_slider_2_p6a6iH",
     "image_image_with_text_HBUq4a",
-    "image_image_with_text_QF6ccX"
+    "image_image_with_text_QF6ccX",
+    "ss_featured_collection_tabs_jqxz3V"
   ]
 }
