@@ -38,7 +38,7 @@
         "logo": "shopify://shop_images/JENNY_SPREI_LOGO_SAVOIR.png",
         "logo-placement": "center",
         "logo_max_width": 190,
-        "logo_max_width_mobile": 120,
+        "logo_max_width_mobile": 135,
         "logo_padding": 20,
         "mobile_social_icons": true,
         "show_icons": true,
