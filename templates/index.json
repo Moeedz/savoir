@@ -66,13 +66,13 @@
         "text_zxMTAX": {
           "type": "text",
           "settings": {
-            "text": "Free Shipping"
+            "text": "Fast Shipping"
           }
         },
         "text_6nCdRG": {
           "type": "text",
           "settings": {
-            "text": "Free Returns"
+            "text": "Limited Stock"
           }
         }
       },
@@ -101,7 +101,8 @@
         "slide_YL3Pwz": {
           "type": "slide",
           "settings": {
-            "title": "New Slide",
+            "image": "shopify://shop_images/0FA393A2-61B7-4B56-A4F9-409382C67CF5.png",
+            "title": "Best Seller",
             "image_link": "",
             "button": "Learn more",
             "url": ""
@@ -110,7 +111,8 @@
         "slide_btbj7Y": {
           "type": "slide",
           "settings": {
-            "title": "New Slide",
+            "image": "shopify://shop_images/20250205_123908.jpg",
+            "title": "Buyer's Pick",
             "image_link": "",
             "button": "Learn more",
             "url": ""
@@ -119,7 +121,8 @@
         "slide_ADLJMT": {
           "type": "slide",
           "settings": {
-            "title": "New Slide",
+            "image": "shopify://shop_images/12_11_savoir-76.jpg",
+            "title": "New Stock",
             "image_link": "",
             "button": "Learn more",
             "url": ""
@@ -128,7 +131,18 @@
         "slide_ViWy4Y": {
           "type": "slide",
           "settings": {
-            "title": "New Slide",
+            "image": "shopify://shop_images/12_11_savoir-17.jpg",
+            "title": "Best Seller",
+            "image_link": "",
+            "button": "Learn more",
+            "url": ""
+          }
+        },
+        "slide_7nkmxA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Savoir_revelrylodge-253.jpg",
+            "title": "Photo Shoot",
             "image_link": "",
             "button": "Learn more",
             "url": ""
@@ -137,7 +151,8 @@
         "slide_9dMcfr": {
           "type": "slide",
           "settings": {
-            "title": "New Slide",
+            "image": "shopify://shop_images/6784BF1D-5C2F-4F1D-BE1B-533337BD21AB.png",
+            "title": "New In",
             "image_link": "",
             "button": "Learn more",
             "url": ""
@@ -149,6 +164,7 @@
         "slide_btbj7Y",
         "slide_ADLJMT",
         "slide_ViWy4Y",
+        "slide_7nkmxA",
         "slide_9dMcfr"
       ],
       "settings": {
@@ -226,6 +242,7 @@
       "type": "image--image-with-text",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Savoir_revelrylodge-241.jpg",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
@@ -240,6 +257,7 @@
       "type": "image--image-with-text",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/IMG_9709.jpg",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
@@ -372,7 +390,7 @@
         "testimonial_xGgpiQ": {
           "type": "testimonial",
           "settings": {
-            "text": "Durability",
+            "text": "Customer Service",
             "rating": 4.7
           }
         },
@@ -383,55 +401,65 @@
             "rating": 4.5
           }
         },
-        "testimonial_ezaqHW": {
-          "type": "testimonial",
-          "settings": {
-            "text": "Value for money",
-            "rating": 4.8
-          }
-        },
         "image_8MqjXW": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/IMG_1145.png"
+          }
         },
         "image_APpnxE": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/IMG_1146.png"
+          }
         },
         "image_CWp4R8": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/IMG_1144.png"
+          }
         },
         "image_4EpXRY": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/IMG_1141.png"
+          }
         },
         "image_HNgz8n": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/IMG_6E0E9896B42C-1.jpg"
+          }
         },
         "image_3Hca9h": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/IMG_1148.png"
+          }
         },
         "image_WnMfYp": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/IMG_1142.png"
+          }
         },
         "image_pDULnq": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/IMG_1149.png"
+          }
         },
         "image_PJAAgE": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/IMG_1151.png"
+          }
         }
       },
       "block_order": [
         "testimonial_Y9aWVL",
         "testimonial_xGgpiQ",
         "testimonial_9AttqN",
-        "testimonial_ezaqHW",
         "image_8MqjXW",
         "image_APpnxE",
         "image_CWp4R8",
@@ -443,7 +471,7 @@
         "image_PJAAgE"
       ],
       "settings": {
-        "heading": "<h2><strong>5000+</strong> PEOPLE LOVE US</h2>",
+        "heading": "<h2><strong>Our Customers</strong> LOVE US</h2>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 54,
@@ -465,7 +493,7 @@
         "testimonial_rating_size_mobile": 18,
         "testimonial_rating_height": 100,
         "stars_size": 24,
-        "button": "GET $10 OFF FIRST ORDER",
+        "button": "",
         "button_url": "",
         "button_use_icon": false,
         "button_use_shadow": false,
@@ -482,7 +510,7 @@
         "button_padding_horizontal": 32,
         "button_radius": 48,
         "button_border_thickness": 3,
-        "text": "Free Shipping | 100% Smile Guarantee",
+        "text": "",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 18,
