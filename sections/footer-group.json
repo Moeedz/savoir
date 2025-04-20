@@ -49,15 +49,16 @@
         "newsletter_3yTwHb",
         "social"
       ],
-      "custom_css": [
-        ".payment-icons svg {height: 35px !important; width: 35px !important;}"
-      ],
+      "custom_css": [],
       "settings": {
         "alignment": "left"
       }
     },
     "footer-bottom": {
       "type": "footer-bottom",
+      "custom_css": [
+        ".payment-icons svg {height: 35px !important; width: 35px !important;}"
+      ],
       "settings": {
         "show_methods_of_payment": true,
         "center_content_on_desktop": false,
