@@ -27,7 +27,7 @@
         "00-announcement"
       ],
       "settings": {
-        "desktop_social_icons": true
+        "desktop_social_icons": false
       }
     },
     "header": {
