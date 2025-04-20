@@ -256,61 +256,61 @@
         "collection_t67RRM": {
           "type": "collection",
           "settings": {
-            "title": "Best Sellers",
-            "collection": "",
-            "product_limit": 6,
+            "title": "New Arrivals",
+            "collection": "new-in",
+            "product_limit": 8,
             "product_row_count": 4,
             "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": false,
-            "product_image_orientation": "square",
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "portrait",
             "button_mt": 48,
-            "button_text": "Shop Now",
-            "button_link": "shopify://collections/all"
+            "button_text": "View All",
+            "button_link": "shopify://collections/new-in"
           }
         },
         "collection_h9ekE6": {
           "type": "collection",
           "settings": {
-            "title": "New Arrivals",
-            "collection": "",
-            "product_limit": 6,
+            "title": "Best Sellers",
+            "collection": "jennys-picks",
+            "product_limit": 8,
             "product_row_count": 4,
             "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": false,
-            "product_image_orientation": "square",
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "portrait",
             "button_mt": 48,
-            "button_text": "Shop Now",
-            "button_link": "shopify://collections/all"
+            "button_text": "View All",
+            "button_link": "shopify://collections/jennys-picks"
           }
         },
         "collection_Vp8XhT": {
           "type": "collection",
           "settings": {
-            "title": "Analog",
-            "collection": "",
-            "product_limit": 6,
+            "title": "Bags",
+            "collection": "best-of-the-bags",
+            "product_limit": 8,
             "product_row_count": 4,
             "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": false,
-            "product_image_orientation": "square",
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "portrait",
             "button_mt": 48,
-            "button_text": "Shop Now",
-            "button_link": "shopify://collections/all"
+            "button_text": "View All",
+            "button_link": "shopify://collections/best-of-the-bags"
           }
         },
         "collection_a3MTKH": {
           "type": "collection",
           "settings": {
-            "title": "Objects",
-            "collection": "",
-            "product_limit": 6,
+            "title": "Jewels",
+            "collection": "gorgeous-jewels",
+            "product_limit": 8,
             "product_row_count": 4,
             "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": false,
-            "product_image_orientation": "square",
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "portrait",
             "button_mt": 48,
-            "button_text": "Shop Now",
-            "button_link": "shopify://collections/all"
+            "button_text": "View All",
+            "button_link": "shopify://collections/gorgeous-jewels"
           }
         }
       },
