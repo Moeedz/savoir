@@ -50,7 +50,8 @@
         "social"
       ],
       "custom_css": [
-        "@media screen and (min-width: 768px) {.image-bar__item {display: flex !important; } .image-bar__item img {max-width: 250px !important; }}"
+        "@media screen and (min-width: 768px) {.image-bar__item {display: flex !important; } .image-bar__item img {max-width: 250px !important; }}",
+        "@media screen and (max-width: 768px) {.image-bar__item img {max-width: 150px !important; }}"
       ],
       "settings": {
         "alignment": "left"
