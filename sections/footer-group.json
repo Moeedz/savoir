@@ -17,7 +17,7 @@
         "image_Twx9B6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/JENNY_SPREI_LOGO_SAVOIR.png",
+            "image": "shopify://shop_images/jenny_sprei_preview.jpg",
             "link": "",
             "title": ""
           }
@@ -50,7 +50,7 @@
         "social"
       ],
       "custom_css": [
-        "@media screen and (min-width: 768px) {.grid__item.large--one-quarter.medium--one-half.small--one-whole.image-footer {padding-left: 0 !important; } .image-bar__item {display: flex !important; } .image-bar__item img {max-width: 250px !important; }}"
+        "@media screen and (min-width: 768px) {.image-bar__item {display: flex !important; } .image-bar__item img {max-width: 250px !important; }}"
       ],
       "settings": {
         "alignment": "left"
