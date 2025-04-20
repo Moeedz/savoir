@@ -95,6 +95,130 @@
         "padding_vertical": 1.5
       }
     },
+    "ss_featured_collection_tabs_jqxz3V": {
+      "type": "ss-featured-collection-tabs",
+      "blocks": {
+        "collection_t67RRM": {
+          "type": "collection",
+          "settings": {
+            "title": "New Arrivals",
+            "collection": "new-in",
+            "product_limit": 8,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "portrait",
+            "button_mt": 48,
+            "button_text": "View All",
+            "button_link": "shopify://collections/new-in"
+          }
+        },
+        "collection_h9ekE6": {
+          "type": "collection",
+          "settings": {
+            "title": "Best Sellers",
+            "collection": "jennys-picks",
+            "product_limit": 8,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "portrait",
+            "button_mt": 48,
+            "button_text": "View All",
+            "button_link": "shopify://collections/jennys-picks"
+          }
+        },
+        "collection_Vp8XhT": {
+          "type": "collection",
+          "settings": {
+            "title": "Bags",
+            "collection": "best-of-the-bags",
+            "product_limit": 8,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "portrait",
+            "button_mt": 48,
+            "button_text": "View All",
+            "button_link": "shopify://collections/best-of-the-bags"
+          }
+        },
+        "collection_a3MTKH": {
+          "type": "collection",
+          "settings": {
+            "title": "Jewels",
+            "collection": "gorgeous-jewels",
+            "product_limit": 8,
+            "product_row_count": 4,
+            "mobile_product_row_count": 1,
+            "enable_swiper_on_mobile": true,
+            "product_image_orientation": "portrait",
+            "button_mt": 48,
+            "button_text": "View All",
+            "button_link": "shopify://collections/gorgeous-jewels"
+          }
+        }
+      },
+      "block_order": [
+        "collection_t67RRM",
+        "collection_h9ekE6",
+        "collection_Vp8XhT",
+        "collection_a3MTKH"
+      ],
+      "settings": {
+        "tabs_color": "#7e7e7e",
+        "tabs_color_active": "#000000",
+        "tabs_size": 18,
+        "tabs_size_mobile": 14,
+        "tabs_padding_bottom": 16,
+        "tabs_align": "center",
+        "tabs_spacing": 48,
+        "tabs_spacing_mobile": 36,
+        "tabs_margin_bottom": 40,
+        "secondary_image_hover": true,
+        "image_roundness": 0,
+        "image_gap": 20,
+        "product_title_size": 14,
+        "product_title_line_height": 1.3,
+        "product_title_color": "#212121",
+        "product_price_size": 14,
+        "discounted_price_color": "#ff3451",
+        "normal_price_color": "#212121",
+        "button_color": "#ffffff",
+        "button_background_color": "#000000",
+        "button_color_hover": "#ffffff",
+        "button_background_color_hover": "#000000",
+        "button_border_color": "#ffffff",
+        "button_height": 44,
+        "button_width": 200,
+        "button_font_size": 16,
+        "button_border_radius": 2,
+        "button_border_thickness": 0,
+        "background-color": "#ffffff",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 56,
+        "padding_bottom": 36,
+        "padding_sides": 5,
+        "padding_sides_mobile": 1.5,
+        "section-width": 120
+      }
+    },
+    "image_image_with_text_HBUq4a": {
+      "type": "image--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image": "shopify://shop_images/Savoir_revelrylodge-241.jpg",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "left",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
     "ss_slider_2_p6a6iH": {
       "type": "ss-slider-2",
       "blocks": {
@@ -238,21 +362,6 @@
         "lazy": true
       }
     },
-    "image_image_with_text_HBUq4a": {
-      "type": "image--image-with-text",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Savoir_revelrylodge-241.jpg",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "left",
-        "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
     "image_image_with_text_QF6ccX": {
       "type": "image--image-with-text",
       "settings": {
@@ -266,115 +375,6 @@
         "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
         "button_label": "",
         "button_link": ""
-      }
-    },
-    "ss_featured_collection_tabs_jqxz3V": {
-      "type": "ss-featured-collection-tabs",
-      "blocks": {
-        "collection_t67RRM": {
-          "type": "collection",
-          "settings": {
-            "title": "New Arrivals",
-            "collection": "new-in",
-            "product_limit": 8,
-            "product_row_count": 4,
-            "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": true,
-            "product_image_orientation": "portrait",
-            "button_mt": 48,
-            "button_text": "View All",
-            "button_link": "shopify://collections/new-in"
-          }
-        },
-        "collection_h9ekE6": {
-          "type": "collection",
-          "settings": {
-            "title": "Best Sellers",
-            "collection": "jennys-picks",
-            "product_limit": 8,
-            "product_row_count": 4,
-            "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": true,
-            "product_image_orientation": "portrait",
-            "button_mt": 48,
-            "button_text": "View All",
-            "button_link": "shopify://collections/jennys-picks"
-          }
-        },
-        "collection_Vp8XhT": {
-          "type": "collection",
-          "settings": {
-            "title": "Bags",
-            "collection": "best-of-the-bags",
-            "product_limit": 8,
-            "product_row_count": 4,
-            "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": true,
-            "product_image_orientation": "portrait",
-            "button_mt": 48,
-            "button_text": "View All",
-            "button_link": "shopify://collections/best-of-the-bags"
-          }
-        },
-        "collection_a3MTKH": {
-          "type": "collection",
-          "settings": {
-            "title": "Jewels",
-            "collection": "gorgeous-jewels",
-            "product_limit": 8,
-            "product_row_count": 4,
-            "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": true,
-            "product_image_orientation": "portrait",
-            "button_mt": 48,
-            "button_text": "View All",
-            "button_link": "shopify://collections/gorgeous-jewels"
-          }
-        }
-      },
-      "block_order": [
-        "collection_t67RRM",
-        "collection_h9ekE6",
-        "collection_Vp8XhT",
-        "collection_a3MTKH"
-      ],
-      "settings": {
-        "tabs_color": "#7e7e7e",
-        "tabs_color_active": "#000000",
-        "tabs_size": 18,
-        "tabs_size_mobile": 14,
-        "tabs_padding_bottom": 16,
-        "tabs_align": "center",
-        "tabs_spacing": 48,
-        "tabs_spacing_mobile": 36,
-        "tabs_margin_bottom": 40,
-        "secondary_image_hover": true,
-        "image_roundness": 0,
-        "image_gap": 20,
-        "product_title_size": 14,
-        "product_title_line_height": 1.3,
-        "product_title_color": "#212121",
-        "product_price_size": 14,
-        "discounted_price_color": "#ff3451",
-        "normal_price_color": "#212121",
-        "button_color": "#ffffff",
-        "button_background_color": "#000000",
-        "button_color_hover": "#ffffff",
-        "button_background_color_hover": "#000000",
-        "button_border_color": "#ffffff",
-        "button_height": 44,
-        "button_width": 200,
-        "button_font_size": 16,
-        "button_border_radius": 2,
-        "button_border_thickness": 0,
-        "background-color": "#ffffff",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 56,
-        "padding_bottom": 36,
-        "padding_sides": 5,
-        "padding_sides_mobile": 1.5,
-        "section-width": 120
       }
     },
     "ss_testimonial_6_qhJCwJ": {
@@ -567,10 +567,10 @@
     "2702beb3-827b-44e4-991e-9b79a8ccc045",
     "image_slideshow_8ijpMy",
     "ss_scrolling_announcement_bar_E7fcJa",
-    "ss_slider_2_p6a6iH",
+    "ss_featured_collection_tabs_jqxz3V",
     "image_image_with_text_HBUq4a",
     "image_image_with_text_QF6ccX",
-    "ss_featured_collection_tabs_jqxz3V",
+    "ss_slider_2_p6a6iH",
     "ss_testimonial_6_qhJCwJ"
   ]
 }
