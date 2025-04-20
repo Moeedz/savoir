@@ -164,7 +164,7 @@
         "card_shadow": true,
         "card_ratio": "portrait",
         "card_ratio_mobile": "portrait",
-        "card_overlay": 0.3,
+        "card_overlay": 0,
         "content_horizontal_position": "center",
         "content_horizontal_position_mobile": "center",
         "content_vertical_position": "end",
