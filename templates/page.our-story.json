@@ -19,7 +19,9 @@
     },
     "image_image_with_text_QQLWaE": {
       "type": "image--image-with-text",
-      "custom_css": [],
+      "custom_css": [
+        ".p {font-size: 25px !important;}"
+      ],
       "settings": {
         "colors": "white",
         "image": "shopify://shop_images/IMG_1481.jpg",
