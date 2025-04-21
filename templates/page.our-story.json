@@ -16,9 +16,27 @@
         "page_title_enabled": true,
         "page_width": "full-width"
       }
+    },
+    "image_image_with_text_QQLWaE": {
+      "type": "image--image-with-text",
+      "custom_css": [
+        ".img {padding-top: 30px; }"
+      ],
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_image_with_text_QQLWaE"
   ]
 }
