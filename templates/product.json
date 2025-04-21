@@ -28,6 +28,16 @@
             "margin_bottom": 15
           }
         },
+        "a55b9011-1b1a-4353-9d97-7bdcd60949f2": {
+          "type": "product-description",
+          "settings": {
+            "collapsible_tab": false,
+            "icon": "none",
+            "heading": "Description",
+            "open_close_icon": "plus_minus",
+            "margin_bottom": 20
+          }
+        },
         "f0f0e917-92a5-4957-a68e-2d0bb38d7819": {
           "type": "separator",
           "settings": {
@@ -56,16 +66,6 @@
           "settings": {
             "show_smart_checkout": true,
             "enable_gift_card_recipient_form": true,
-            "margin_bottom": 20
-          }
-        },
-        "a55b9011-1b1a-4353-9d97-7bdcd60949f2": {
-          "type": "product-description",
-          "settings": {
-            "collapsible_tab": false,
-            "icon": "none",
-            "heading": "Description",
-            "open_close_icon": "plus_minus",
             "margin_bottom": 20
           }
         },
@@ -128,11 +128,11 @@
       "block_order": [
         "title",
         "price",
+        "a55b9011-1b1a-4353-9d97-7bdcd60949f2",
         "f0f0e917-92a5-4957-a68e-2d0bb38d7819",
         "options",
         "quantity",
         "buy_buttons",
-        "a55b9011-1b1a-4353-9d97-7bdcd60949f2",
         "b0c19132-8e54-4664-b8ce-0a8c7f1f7737",
         "9c341458-2d2c-4317-a2cc-346e220f53e0",
         "b3864090-4f25-4db2-bddb-c549e9472be6",
@@ -147,13 +147,6 @@
         "thumbnail_position": "left",
         "enable_video_loop": true,
         "app_margin_bottom": 17
-      }
-    },
-    "advanced_layout_custom_liquid_wNbeyz": {
-      "type": "advanced-layout--custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<div style='text-align:LEFT; padding: 0px 0;font-size:14px'><div class=\"wrapper-padded\"></h2><p>Complete The Look</p></div></div>"
       }
     },
     "template_product_recommendations_GxgAUN": {
@@ -177,26 +170,12 @@
           "settings": {
             "product_card_price__font": "body"
           }
-        },
-        "product_card_vendor_pW7PVU": {
-          "type": "product_card_vendor",
-          "disabled": true,
-          "settings": {
-            "product_card_vendor__font": "body"
-          }
-        },
-        "product_card_quick_shop_Xcew36": {
-          "type": "product_card_quick_shop",
-          "disabled": true,
-          "settings": {}
         }
       },
       "block_order": [
         "product_card_image_agxVCQ",
         "product_card_title_4C3xCe",
-        "product_card_price_prB3Li",
-        "product_card_vendor_pW7PVU",
-        "product_card_quick_shop_Xcew36"
+        "product_card_price_prB3Li"
       ],
       "custom_css": [
         "h2 {font-size: 14px; text-align: left;}"
@@ -211,63 +190,11 @@
       "settings": {
         "enable_readmore": false
       }
-    },
-    "advanced_layout_custom_liquid_GUPqc7": {
-      "type": "advanced-layout--custom-liquid",
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "custom_liquid": "<div style='text-align:LEFT; padding: 0px 0;font-size:14px'><div class=\"wrapper-padded\"></h2><p>Recently Viewed</p></div></div>"
-      }
-    },
-    "template_product_recently_viewed_6yGbwX": {
-      "type": "template--product--recently-viewed",
-      "blocks": {
-        "product_card_image_D6DJii": {
-          "type": "product_card_image",
-          "settings": {
-            "enable_quick_shop": false,
-            "disable_quick_shop_mobile": true
-          }
-        },
-        "product_card_title_YdwdWx": {
-          "type": "product_card_title",
-          "settings": {
-            "product_card_title__font": "body"
-          }
-        },
-        "product_card_price_pJkTF3": {
-          "type": "product_card_price",
-          "settings": {
-            "product_card_price__font": "body"
-          }
-        },
-        "product_card_quick_shop_Jp8z7Q": {
-          "type": "product_card_quick_shop",
-          "disabled": true,
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "product_card_image_D6DJii",
-        "product_card_title_YdwdWx",
-        "product_card_price_pJkTF3",
-        "product_card_quick_shop_Jp8z7Q"
-      ],
-      "custom_css": [
-        "h2 {font-size: 14px; text-align: left;}"
-      ],
-      "settings": {
-        "recently_viewed_title": "Recently viewed"
-      }
     }
   },
   "order": [
     "product-form",
-    "advanced_layout_custom_liquid_wNbeyz",
     "template_product_recommendations_GxgAUN",
-    "product-description",
-    "advanced_layout_custom_liquid_GUPqc7",
-    "template_product_recently_viewed_6yGbwX"
+    "product-description"
   ]
 }
