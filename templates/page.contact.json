@@ -9,34 +9,6 @@
  */
 {
   "sections": {
-    "text_rich_text_PhkYBY": {
-      "type": "text--rich-text",
-      "blocks": {
-        "heading_4y7Aei": {
-          "type": "heading",
-          "settings": {
-            "heading": "Heading"
-          }
-        },
-        "richtext_kEERn8": {
-          "type": "richtext",
-          "settings": {
-            "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.</p>",
-            "text_size": 14
-          }
-        }
-      },
-      "block_order": [
-        "heading_4y7Aei",
-        "richtext_kEERn8"
-      ],
-      "settings": {
-        "colors": "white",
-        "section_width": "narrow",
-        "text_alignment_desktop": "left",
-        "text_alignment_mobile": "left"
-      }
-    },
     "057a50d5-3fee-4ea2-a832-2d38f47b959a": {
       "type": "section--contact-form",
       "blocks": {
@@ -96,7 +68,6 @@
     }
   },
   "order": [
-    "text_rich_text_PhkYBY",
     "057a50d5-3fee-4ea2-a832-2d38f47b959a"
   ]
 }
