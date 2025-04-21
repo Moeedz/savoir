@@ -74,11 +74,39 @@
           "settings": {
             "text": "Limited Stock"
           }
+        },
+        "text_TaHLV8": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping"
+          }
+        },
+        "text_TCaMHV": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping"
+          }
+        },
+        "text_bEww89": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping"
+          }
+        },
+        "text_zzeQr9": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping"
+          }
         }
       },
       "block_order": [
         "text_zxMTAX",
-        "text_6nCdRG"
+        "text_6nCdRG",
+        "text_TaHLV8",
+        "text_TCaMHV",
+        "text_bEww89",
+        "text_zzeQr9"
       ],
       "settings": {
         "insert_css_class_target": "",
@@ -249,9 +277,9 @@
             "desktop_position": "md-min-align-top md-min-justify-left",
             "mobile_position": "md-max-align-top md-max-justify-left",
             "text_color": "#262428",
-            "button_color": "#E6E5E7",
+            "button_color": "#e6e5e7",
             "button_background_color": "#262428",
-            "button_hover_color": "#D4D3D4",
+            "button_hover_color": "#d4d3d4",
             "button_hover_background_color": "#494949",
             "overlay_color": "rgba(0,0,0,0)"
           }
@@ -266,9 +294,9 @@
             "desktop_position": "md-min-align-bottom md-min-justify-right",
             "mobile_position": "md-max-align-bottom md-max-justify-right",
             "text_color": "#262428",
-            "button_color": "#E6E5E7",
+            "button_color": "#e6e5e7",
             "button_background_color": "#262428",
-            "button_hover_color": "#D4D3D4",
+            "button_hover_color": "#d4d3d4",
             "button_hover_background_color": "#494949",
             "overlay_color": "rgba(0,0,0,0)"
           }
@@ -283,9 +311,9 @@
             "desktop_position": "md-min-align-bottom md-min-justify-right",
             "mobile_position": "md-max-align-bottom md-max-justify-right",
             "text_color": "#262428",
-            "button_color": "#E6E5E7",
+            "button_color": "#e6e5e7",
             "button_background_color": "#262428",
-            "button_hover_color": "#D4D3D4",
+            "button_hover_color": "#d4d3d4",
             "button_hover_background_color": "#494949",
             "overlay_color": "rgba(0,0,0,0)"
           }
