@@ -17,14 +17,77 @@
         "00-announcement": {
           "type": "announcement",
           "settings": {
-            "announcement_text": "WELCOME TO A WORLD OF FASHION AND FRILLS",
+            "announcement_text": "FREE GIFT WITH PURCHASES OVER £150",
             "announcement_bg_color": "#fdeef2",
             "announcement_text_color": "#000000"
+          }
+        },
+        "announcement_gxA4Kw": {
+          "type": "announcement",
+          "settings": {
+            "announcement_text": "FASHION TO KNOW AND ENJOY",
+            "announcement_bg_color": "#fdeef2",
+            "announcement_text_color": "#000000"
+          }
+        },
+        "announcement_gAKRwh": {
+          "type": "announcement",
+          "settings": {
+            "announcement_text": "SHOP THE BEST EDIT OF UNSEEN BRANDS",
+            "announcement_bg_color": "#fdeef2",
+            "announcement_text_color": "#000000"
+          }
+        },
+        "announcement_KPeAU3": {
+          "type": "announcement",
+          "settings": {
+            "announcement_text": "FASHION TO KNOW AND ENJOY",
+            "announcement_bg_color": "#fdeef2",
+            "announcement_text_color": "#000000"
+          }
+        },
+        "announcement_TftHFi": {
+          "type": "announcement",
+          "settings": {
+            "announcement_text": "1-2 DAYS EXPRESS SHIPPING",
+            "announcement_bg_color": "#fdeef2",
+            "announcement_text_color": "#000000"
+          }
+        },
+        "announcement_YVTVrz": {
+          "type": "announcement",
+          "settings": {
+            "announcement_text": "WELCOME TO OUR STORE WHERE EXPERT FASHION MEETS CURATION",
+            "announcement_bg_color": "#fdeef2",
+            "announcement_text_color": "#000000"
+          }
+        },
+        "announcement_UrfYqp": {
+          "type": "announcement",
+          "settings": {
+            "announcement_text": "EACH ITEM HAS BEEN EXPERTLY HANDPICKED",
+            "announcement_bg_color": "#fdeef2",
+            "announcement_text_color": "#262428"
+          }
+        },
+        "announcement_Dq9iHH": {
+          "type": "announcement",
+          "settings": {
+            "announcement_text": "Klarna now available",
+            "announcement_bg_color": "#fdeef2",
+            "announcement_text_color": "#262428"
           }
         }
       },
       "block_order": [
-        "00-announcement"
+        "00-announcement",
+        "announcement_gxA4Kw",
+        "announcement_gAKRwh",
+        "announcement_KPeAU3",
+        "announcement_TftHFi",
+        "announcement_YVTVrz",
+        "announcement_UrfYqp",
+        "announcement_Dq9iHH"
       ],
       "settings": {
         "desktop_social_icons": false

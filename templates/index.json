@@ -22,41 +22,6 @@
         "layout": "right"
       }
     },
-    "ss_scrolling_announcement_bar_6WkMB4": {
-      "type": "ss-scrolling-announcement-bar",
-      "blocks": {
-        "text_JqHXYB": {
-          "type": "text",
-          "settings": {
-            "text": "Free Shipping"
-          }
-        },
-        "text_XGgwUd": {
-          "type": "text",
-          "settings": {
-            "text": "Free Returns"
-          }
-        }
-      },
-      "block_order": [
-        "text_JqHXYB",
-        "text_XGgwUd"
-      ],
-      "settings": {
-        "insert_css_class_target": "",
-        "text_size": 12,
-        "ss_font_family": "montserrat_n4",
-        "link": "",
-        "animation_duration": 44,
-        "animation_direction": "right",
-        "pause_hover": false,
-        "bg": "#000000",
-        "text_color": "#fff",
-        "hover_opacity": 90,
-        "padding_horizontal": 2,
-        "padding_vertical": 1.5
-      }
-    },
     "image_slideshow_8ijpMy": {
       "type": "image--slideshow",
       "blocks": {
@@ -1092,7 +1057,6 @@
   },
   "order": [
     "2702beb3-827b-44e4-991e-9b79a8ccc045",
-    "ss_scrolling_announcement_bar_6WkMB4",
     "image_slideshow_8ijpMy",
     "ss_scrolling_announcement_bar_E7fcJa",
     "ss_featured_collection_tabs_jqxz3V",
