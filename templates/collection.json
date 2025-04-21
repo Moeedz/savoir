@@ -13,7 +13,8 @@
     "image_image_with_text_MpweCV": {
       "type": "image--image-with-text",
       "custom_css": [
-        ".img {padding-top: 50px;}"
+        "@media screen and (min-width: 768px) {.img {padding-top: 40px; } .grid__item {width: 30% !important; }}",
+        ".grid--full {justify-content: center !important;}"
       ],
       "settings": {
         "colors": "white",
