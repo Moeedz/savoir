@@ -19,17 +19,16 @@
     },
     "image_image_with_text_QQLWaE": {
       "type": "image--image-with-text",
-      "custom_css": [
-        ".img {padding-top: 30px; }"
-      ],
+      "custom_css": [],
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/IMG_1481.jpg",
         "text_overlapping_image": false,
-        "section-width": "full",
+        "section-width": "content",
         "layout": "left",
-        "text_alignment": "center",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "text_alignment": "left",
+        "title": "Savoir is “To Know”",
+        "text": "<p>An edited online fashion platform offering contemporary brands and products, unlocking industry secrets into accessible treasures, from talented designers - all through the lens of a seasoned fashion buying professional.</p><p>We are addressing the market gap for well-priced, items that evoke the joy of dressing and make you feel good. Fashion is fun and playful.</p><p>We discover and champion small, independent, and slow fashion businesses across apparel, accessories, homeware and gifting from all over the world.</p><p>We not only curate a digital space but will showcase our products through physical pop up events to truly build a community.</p><p>Founder, Jenny Sprei has over 15 years industry experience as a fashion buyer. scouring global markets, blending luxury with innovation and igniting excitement with every selection</p><p>From Selfridges, Liberty, ASOS, Yoox Net a Porter; startups to icons, her journey is defined by a relentless pursuit of the extraordinary, shaping the industry with boundless passion and vision</p>",
         "button_label": "",
         "button_link": ""
       }
