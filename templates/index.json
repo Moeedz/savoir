@@ -396,7 +396,7 @@
       ],
       "settings": {
         "items_gap": 20,
-        "items_gap_mobile": 20,
+        "items_gap_mobile": 4,
         "row_height": 300,
         "row_height_mobile": 200,
         "background_color": "#FFFFFF",
