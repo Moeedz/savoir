@@ -13,16 +13,18 @@
     "image_image_with_text_MpweCV": {
       "type": "image--image-with-text",
       "custom_css": [
-        ".img {padding-top: 50px;}"
+        ".img {padding-top: 50px;}",
+        ".grid__item {width: 25% !important;}"
       ],
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/stripe-market-bag-nylon-rust-pink-detail-ainoah.jpg",
         "text_overlapping_image": false,
         "section-width": "content",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "title": "Acorn & Will",
+        "text": "<p>One day, Daniella decided that life was too short not to be doing something she loved, and so acorn & will was born. She put together a collection of products that are fun, affordable and eye-catching, and the range successfully reflects that desire.</p>",
         "button_label": "",
         "button_link": ""
       }
