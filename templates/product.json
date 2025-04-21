@@ -12,10 +12,16 @@
     "product-form": {
       "type": "template--product",
       "blocks": {
+        "klaviyo_reviews_average_rating_kHHrny": {
+          "type": "shopify://apps/klaviyo-reviews/blocks/average-rating/db20e365-d984-4ac4-9655-e1588d951ca9",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
-            "title_font": "h3",
+            "title_font": "h2",
             "margin_bottom": 0
           }
         },
@@ -133,6 +139,7 @@
         }
       },
       "block_order": [
+        "klaviyo_reviews_average_rating_kHHrny",
         "title",
         "custom_liquid_UFtE9R",
         "a55b9011-1b1a-4353-9d97-7bdcd60949f2",
