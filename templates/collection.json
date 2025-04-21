@@ -18,6 +18,7 @@
       ],
       "settings": {
         "colors": "white",
+        "image": "{{ collection.image }}",
         "text_overlapping_image": false,
         "section-width": "content",
         "layout": "left",
