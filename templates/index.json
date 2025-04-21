@@ -729,6 +729,140 @@
         "lazy": true
       }
     },
+    "ss_instafeed_4_JMbwzm": {
+      "type": "ss-instafeed-4",
+      "blocks": {
+        "image_DdEP6H": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/491498168_17898353748183444_3572603787176315392_n.jpg",
+            "url": ""
+          }
+        },
+        "image_XfHJPH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/491431440_17898274545183444_1700732890396248784_n.jpg",
+            "url": ""
+          }
+        },
+        "image_xdW66a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/imgonline-com-ua-compressed-pZTaky5sYQo6.jpg",
+            "url": ""
+          }
+        },
+        "image_t6NFCG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/490073459_17897560923183444_4688772658035287860_n.jpg",
+            "url": ""
+          }
+        },
+        "image_HjRWMU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/488665402_17897234994183444_5817735947139651427_n.jpg",
+            "url": ""
+          }
+        },
+        "image_FqytM7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/487465513_17896678746183444_6704999752875836930_n.jpg",
+            "url": ""
+          }
+        },
+        "image_R6rQmK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/487360957_17896420392183444_33856068414166178_n.jpg",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_DdEP6H",
+        "image_XfHJPH",
+        "image_xdW66a",
+        "image_t6NFCG",
+        "image_HjRWMU",
+        "image_FqytM7",
+        "image_R6rQmK"
+      ],
+      "settings": {
+        "content_horizontal_align_mobile": "center",
+        "heading": "<p>Follow us on <em><strong>Instagram</strong></em></p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 52,
+        "heading_size_mobile": 32,
+        "heading_height": 130,
+        "text": "<p>Get your daily dose of design inspiration. Join our Instagram community today!</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 12,
+        "button": "@we_are_savoir",
+        "button_url": "https://www.instagram.com/we_are_savoir/",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 20,
+        "button_size_mobile": 16,
+        "button_height": 100,
+        "button_width": 250,
+        "button_width_mobile": 250,
+        "button_mt_mobile": 32,
+        "button_padding_vertical": 18,
+        "button_padding_vertical_mobile": 18,
+        "button_padding_horizontal": 32,
+        "button_padding_horizontal_mobile": 32,
+        "button_radius": 100,
+        "button_border_thickness": 1,
+        "button_style": "outline",
+        "slider_speed": 30,
+        "slider_gap": 20,
+        "slider_gap_mobile": 20,
+        "slider_mt": 34,
+        "slider_mt_mobile": 32,
+        "slider_direction": "left",
+        "pause_hover": false,
+        "image_width_desktop": 350,
+        "image_width_mobile": 180,
+        "image_radius": 24,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "image_ratio_mobile": "square",
+        "heading_color": "#121212",
+        "text_color": "#121212",
+        "button_color": "#121212",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "",
+        "button_bg_hover_color": "#121212",
+        "button_border_color": "#121212",
+        "button_border_hover_color": "#000000",
+        "image_border_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
     "ss_testimonial_6_qhJCwJ": {
       "type": "ss-testimonial-6",
       "blocks": {
@@ -913,140 +1047,6 @@
         "border_thickness": 0,
         "lazy": true
       }
-    },
-    "ss_instafeed_4_JMbwzm": {
-      "type": "ss-instafeed-4",
-      "blocks": {
-        "image_DdEP6H": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/491498168_17898353748183444_3572603787176315392_n.jpg",
-            "url": ""
-          }
-        },
-        "image_XfHJPH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/491431440_17898274545183444_1700732890396248784_n.jpg",
-            "url": ""
-          }
-        },
-        "image_xdW66a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/imgonline-com-ua-compressed-pZTaky5sYQo6.jpg",
-            "url": ""
-          }
-        },
-        "image_t6NFCG": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/490073459_17897560923183444_4688772658035287860_n.jpg",
-            "url": ""
-          }
-        },
-        "image_HjRWMU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/488665402_17897234994183444_5817735947139651427_n.jpg",
-            "url": ""
-          }
-        },
-        "image_FqytM7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/487465513_17896678746183444_6704999752875836930_n.jpg",
-            "url": ""
-          }
-        },
-        "image_R6rQmK": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/487360957_17896420392183444_33856068414166178_n.jpg",
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_DdEP6H",
-        "image_XfHJPH",
-        "image_xdW66a",
-        "image_t6NFCG",
-        "image_HjRWMU",
-        "image_FqytM7",
-        "image_R6rQmK"
-      ],
-      "settings": {
-        "content_horizontal_align_mobile": "center",
-        "heading": "<p>Follow us on <em><strong>Instagram</strong></em></p>",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 52,
-        "heading_size_mobile": 32,
-        "heading_height": 130,
-        "text": "<p>Get your daily dose of design inspiration. Join our Instagram community today!</p>",
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 16,
-        "text_size_mobile": 16,
-        "text_height": 130,
-        "text_mt": 12,
-        "button": "@we_are_savoir",
-        "button_url": "https://www.instagram.com/we_are_savoir/",
-        "button_custom": false,
-        "button_font": "josefin_sans_n4",
-        "button_size": 20,
-        "button_size_mobile": 16,
-        "button_height": 100,
-        "button_width": 250,
-        "button_width_mobile": 250,
-        "button_mt_mobile": 32,
-        "button_padding_vertical": 18,
-        "button_padding_vertical_mobile": 18,
-        "button_padding_horizontal": 32,
-        "button_padding_horizontal_mobile": 32,
-        "button_radius": 100,
-        "button_border_thickness": 1,
-        "button_style": "outline",
-        "slider_speed": 30,
-        "slider_gap": 20,
-        "slider_gap_mobile": 20,
-        "slider_mt": 34,
-        "slider_mt_mobile": 32,
-        "slider_direction": "left",
-        "pause_hover": false,
-        "image_width_desktop": 350,
-        "image_width_mobile": 180,
-        "image_radius": 24,
-        "image_border_thickness": 0,
-        "image_ratio": "square",
-        "image_ratio_mobile": "square",
-        "heading_color": "#121212",
-        "text_color": "#121212",
-        "button_color": "#121212",
-        "button_hover_color": "#ffffff",
-        "button_bg_color": "",
-        "button_bg_hover_color": "#121212",
-        "button_border_color": "#121212",
-        "button_border_hover_color": "#000000",
-        "image_border_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "margin_horizontal": 0,
-        "margin_horizontal_mobile": 0,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
-        "full_width": false,
-        "content_width": 120,
-        "border_thickness": 0,
-        "section_radius": 0,
-        "lazy": true
-      }
     }
   },
   "order": [
@@ -1059,7 +1059,7 @@
     "ss_media_grid_XFNEiV",
     "ss_media_grid_MxgCjF",
     "ss_slider_2_p6a6iH",
-    "ss_testimonial_6_qhJCwJ",
-    "ss_instafeed_4_JMbwzm"
+    "ss_instafeed_4_JMbwzm",
+    "ss_testimonial_6_qhJCwJ"
   ]
 }
