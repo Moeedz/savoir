@@ -22,8 +22,8 @@
         "section-width": "content",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "title": "{{ collection.title }}",
+        "text": "{{ collection.description }}",
         "button_label": "",
         "button_link": ""
       }
