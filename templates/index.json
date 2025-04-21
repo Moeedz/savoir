@@ -439,6 +439,7 @@
         "image_g4LjiQ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Savoir_revelrylodge-242.jpg",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -446,8 +447,8 @@
             "heading_font": "assistant_n4",
             "heading_size": 32,
             "heading_height": 100,
-            "link": "Link",
-            "link_url": "",
+            "link": "Sissel Edelbo",
+            "link_url": "shopify://collections/sissel-edelbo",
             "link_custom": false,
             "link_font": "assistant_n4",
             "link_size": 22,
@@ -469,6 +470,7 @@
         "image_XCFrFW": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Savoir_revelrylodge-272.jpg",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -476,8 +478,8 @@
             "heading_font": "assistant_n4",
             "heading_size": 32,
             "heading_height": 100,
-            "link": "Link",
-            "link_url": "",
+            "link": "New In Bags",
+            "link_url": "shopify://collections/shicato",
             "link_custom": false,
             "link_font": "assistant_n4",
             "link_size": 22,
@@ -499,6 +501,7 @@
         "image_MeqUNQ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Savoir_revelrylodge-1.jpg",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -506,8 +509,8 @@
             "heading_font": "assistant_n4",
             "heading_size": 32,
             "heading_height": 100,
-            "link": "Link",
-            "link_url": "",
+            "link": "Dreamer Rebels",
+            "link_url": "shopify://collections/dreamer-rebels",
             "link_custom": false,
             "link_font": "assistant_n4",
             "link_size": 22,
@@ -529,6 +532,7 @@
         "image_VRRBtV": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_0602.jpg",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -536,8 +540,8 @@
             "heading_font": "assistant_n4",
             "heading_size": 32,
             "heading_height": 100,
-            "link": "Link",
-            "link_url": "",
+            "link": "Dress Edit",
+            "link_url": "shopify://collections/dresses",
             "link_custom": false,
             "link_font": "assistant_n4",
             "link_size": 22,
