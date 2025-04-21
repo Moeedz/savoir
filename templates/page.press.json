@@ -11,29 +11,33 @@
   "sections": {
     "main": {
       "type": "template--page",
+      "disabled": true,
       "settings": {
         "page_title_enabled": true,
         "page_width": "full-width"
       }
     },
-    "video_video_JiiUtT": {
-      "type": "video--video",
+    "image_image_with_text_mHWt8c": {
+      "type": "image--image-with-text",
+      "custom_css": [
+        "a{background: black; color: white;}"
+      ],
       "settings": {
         "colors": "white",
-        "title": "",
-        "richtext": "",
-        "width_classes": 75,
-        "video": "shopify://files/videos/ScreenRecording_04-15-2025 23-27-25_1.mov",
-        "url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "autoplay": false,
-        "loop": true,
-        "mute": false,
-        "video_overlay_opacity": 50
+        "image": "shopify://shop_images/D82A2869-E11B-488E-B9CB-238550714CEC.jpg",
+        "text_overlapping_image": false,
+        "section-width": "content",
+        "layout": "left",
+        "text_alignment": "left",
+        "title": "The Telegraph",
+        "text": "",
+        "button_label": "Read the article",
+        "button_link": "https://www.telegraph.co.uk/fashion/style/blue-monday-dopamine-dressing/"
       }
     }
   },
   "order": [
     "main",
-    "video_video_JiiUtT"
+    "image_image_with_text_mHWt8c"
   ]
 }
