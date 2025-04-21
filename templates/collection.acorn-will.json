@@ -14,7 +14,8 @@
       "type": "image--image-with-text",
       "custom_css": [
         ".img {padding-top: 50px;}",
-        ".grid__item {width: 25% !important;}"
+        ".grid__item {width: 25% !important;}",
+        ".grid--full {justify-content: center !important;}"
       ],
       "settings": {
         "colors": "white",
