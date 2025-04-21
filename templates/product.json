@@ -155,11 +155,12 @@
         "4fdb087c-4728-4785-b270-a71a092b7898"
       ],
       "custom_css": [
-        "div#shopify-block-ATjhXbjhmSUY3bS92T__klaviyo_reviews_average_rating_kHHrny {margin-bottom: 0 !important;}"
+        "div#shopify-block-ATjhXbjhmSUY3bS92T__klaviyo_reviews_average_rating_kHHrny {margin-bottom: 0 !important;}",
+        "button#AddToCart {background: black !important; color: white !important; text-transform: uppercase !important; font-size: 17px;}"
       ],
       "settings": {
-        "enable_sticky": true,
-        "show_out_of_stock_email": false,
+        "enable_sticky": false,
+        "show_out_of_stock_email": true,
         "image_size": "medium",
         "image-display": "full-size",
         "thumbnail_position": "left",
