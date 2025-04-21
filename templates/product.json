@@ -156,7 +156,8 @@
       ],
       "custom_css": [
         "div#shopify-block-ATjhXbjhmSUY3bS92T__klaviyo_reviews_average_rating_kHHrny {margin-bottom: 0 !important;}",
-        "button#AddToCart {background: black !important; color: white !important; text-transform: uppercase !important; font-size: 17px;}"
+        "button#AddToCart {background: black !important; color: white !important; text-transform: uppercase !important; font-size: 17px;}",
+        ".product-description.product-form-block p {font-size: 15px;}"
       ],
       "settings": {
         "enable_sticky": false,
