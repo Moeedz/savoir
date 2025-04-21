@@ -160,7 +160,7 @@
         ".product-description.product-form-block p {font-size: 15px;}"
       ],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "show_out_of_stock_email": true,
         "image_size": "medium",
         "image-display": "full-size",
