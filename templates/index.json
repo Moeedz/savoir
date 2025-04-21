@@ -206,6 +206,7 @@
     },
     "image_image_with_text_HBUq4a": {
       "type": "image--image-with-text",
+      "disabled": true,
       "settings": {
         "colors": "white",
         "image": "shopify://shop_images/Savoir_revelrylodge-241.jpg",
@@ -221,6 +222,7 @@
     },
     "image_image_with_text_QF6ccX": {
       "type": "image--image-with-text",
+      "disabled": true,
       "settings": {
         "colors": "white",
         "image": "shopify://shop_images/Savoir_revelrylodge-1.jpg",
@@ -232,6 +234,87 @@
         "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
         "button_label": "",
         "button_link": ""
+      }
+    },
+    "collage_builder_yjMLDe": {
+      "type": "collage-builder",
+      "blocks": {
+        "image_jLQV8y": {
+          "type": "image",
+          "settings": {
+            "heading": "Upload an image",
+            "heading_size": 30,
+            "button_label": "Shop now",
+            "url": "shopify://collections/all",
+            "desktop_position": "md-min-align-top md-min-justify-left",
+            "mobile_position": "md-max-align-top md-max-justify-left",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#262428",
+            "button_hover_color": "#D4D3D4",
+            "button_hover_background_color": "#494949",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "image_fQQk7a": {
+          "type": "image",
+          "settings": {
+            "heading": "Upload an image",
+            "heading_size": 30,
+            "button_label": "Shop now",
+            "url": "shopify://collections/all",
+            "desktop_position": "md-min-align-bottom md-min-justify-right",
+            "mobile_position": "md-max-align-bottom md-max-justify-right",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#262428",
+            "button_hover_color": "#D4D3D4",
+            "button_hover_background_color": "#494949",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "image_qYBah7": {
+          "type": "image",
+          "settings": {
+            "heading": "Upload an image",
+            "heading_size": 30,
+            "button_label": "Shop now",
+            "url": "shopify://collections/all",
+            "desktop_position": "md-min-align-bottom md-min-justify-right",
+            "mobile_position": "md-max-align-bottom md-max-justify-right",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#262428",
+            "button_hover_color": "#D4D3D4",
+            "button_hover_background_color": "#494949",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "image_jLQV8y",
+        "image_fQQk7a",
+        "image_qYBah7"
+      ],
+      "settings": {
+        "color_scheme": "white",
+        "title": "",
+        "description": "",
+        "remove_spacing": false,
+        "section_width": "full",
+        "width_1": "3",
+        "height_1": "2",
+        "width_2": "3",
+        "height_2": "2",
+        "width_3": "3",
+        "height_3": "2",
+        "width_4": "2",
+        "height_4": "2",
+        "width_5": "2",
+        "height_5": "2",
+        "width_6": "1",
+        "height_6": "4",
+        "block_alignment": "center"
       }
     },
     "ss_slider_2_p6a6iH": {
@@ -372,7 +455,7 @@
         "padding_horizontal": 0,
         "padding_horizontal_mobile": 0,
         "full_width": true,
-        "content_width": 120,
+        "content_width": 400,
         "border_thickness": 0,
         "lazy": true
       }
@@ -704,6 +787,7 @@
     "ss_featured_collection_tabs_jqxz3V",
     "image_image_with_text_HBUq4a",
     "image_image_with_text_QF6ccX",
+    "collage_builder_yjMLDe",
     "ss_slider_2_p6a6iH",
     "ss_testimonial_6_qhJCwJ",
     "ss_instafeed_4_JMbwzm"
