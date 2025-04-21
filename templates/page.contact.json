@@ -9,6 +9,34 @@
  */
 {
   "sections": {
+    "text_rich_text_PhkYBY": {
+      "type": "text--rich-text",
+      "blocks": {
+        "heading_4y7Aei": {
+          "type": "heading",
+          "settings": {
+            "heading": "Heading"
+          }
+        },
+        "richtext_kEERn8": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.</p>",
+            "text_size": 14
+          }
+        }
+      },
+      "block_order": [
+        "heading_4y7Aei",
+        "richtext_kEERn8"
+      ],
+      "settings": {
+        "colors": "white",
+        "section_width": "narrow",
+        "text_alignment_desktop": "left",
+        "text_alignment_mobile": "left"
+      }
+    },
     "057a50d5-3fee-4ea2-a832-2d38f47b959a": {
       "type": "section--contact-form",
       "blocks": {
@@ -56,39 +84,14 @@
         "fbb2a872-0770-4f56-913c-b7853e33a9c0",
         "template--14753984643142__057a50d5-3fee-4ea2-a832-2d38f47b959a-16788945317184afd8-3"
       ],
+      "custom_css": [
+        "p {text-align: -webkit-left !important;}"
+      ],
       "settings": {
         "section_color_scheme": "white",
         "form_width": "narrow",
         "form_title": "Contact us",
-        "form_description": "<p>Have a question, or want a product recommendation? Get in touch.</p>"
-      }
-    },
-    "text_rich_text_PhkYBY": {
-      "type": "text--rich-text",
-      "blocks": {
-        "heading_4y7Aei": {
-          "type": "heading",
-          "settings": {
-            "heading": "Heading"
-          }
-        },
-        "richtext_kEERn8": {
-          "type": "richtext",
-          "settings": {
-            "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.</p>",
-            "text_size": 14
-          }
-        }
-      },
-      "block_order": [
-        "heading_4y7Aei",
-        "richtext_kEERn8"
-      ],
-      "settings": {
-        "colors": "white",
-        "section_width": "narrow",
-        "text_alignment_desktop": "left",
-        "text_alignment_mobile": "left"
+        "form_description": "<p>For any questions regarding our product or for assistance with your order, please email us and you should get a response within 1 business day. Please be sure to include the order number or the email address used during check-out in your message. Need more information on a specific product, or want an update on your order? Just let us know by contacting to us via our email support. Our support team will try to reply to all inquiries as fast as we can. Thank You!<br/><br/>Phone: +44 7792 886721<br/>Mail: jenny@savoir.shop<br/>Address: 18 Horsehaven Mews, Watford, England WD19 4FT, United Kingdom<br/>Support: Monday - Friday: 9 AM - 6 PM<br/><br/></p>"
       }
     }
   },
