@@ -77,7 +77,42 @@
     "page_fade_enabled": true,
     "ken_burns_enabled": false,
     "checkout_logo_size": "medium",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "13951170544780599758": {
+        "type": "shopify://apps/tapita-seo-speed/blocks/app-embed/cd37ca7a-40ad-4fdc-afd3-768701482209",
+        "disabled": false,
+        "settings": {}
+      },
+      "2858414731233960599": {
+        "type": "shopify://apps/deco-labels-badges/blocks/main/fd2caeda-48fd-4076-b5f9-8dfada7253f1",
+        "disabled": false,
+        "settings": {}
+      },
+      "6986766168588894248": {
+        "type": "shopify://apps/preorder-now-wolf/blocks/app-embed/7ee1d740-e67b-4ea8-b0c9-1f62cb8777ec",
+        "disabled": false,
+        "settings": {}
+      },
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
+      },
+      "1232542678405107163": {
+        "type": "shopify://apps/instafeed/blocks/head-block/c447db20-095d-4a10-9725-b5977662c9d5",
+        "disabled": false,
+        "settings": {}
+      },
+      "14198427981142892921": {
+        "type": "shopify://apps/se-wishlist-engine/blocks/app-embed/8f7c0857-8e71-463d-a168-8e133094753b",
+        "disabled": false,
+        "settings": {
+          "wishlist_unfill_icon": "",
+          "wishlist_fill_icon": ""
+        }
+      }
+    }
   },
   "presets": {
     "Nourish": {
