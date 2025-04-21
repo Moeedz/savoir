@@ -20,7 +20,8 @@
     "image_image_with_text_mHWt8c": {
       "type": "image--image-with-text",
       "custom_css": [
-        "a{background: black; color: white;}"
+        "a {background: black; color: white;}",
+        "img {object-fit: contain !important;}"
       ],
       "settings": {
         "colors": "white",
@@ -34,10 +35,30 @@
         "button_label": "Read the article",
         "button_link": "https://www.telegraph.co.uk/fashion/style/blue-monday-dopamine-dressing/"
       }
+    },
+    "image_image_with_text_DrDQCY": {
+      "type": "image--image-with-text",
+      "custom_css": [
+        "a {background: black; color: white;}",
+        "img {object-fit: contain !important;}"
+      ],
+      "settings": {
+        "colors": "white",
+        "image": "shopify://shop_images/Untitled_design_1.png",
+        "text_overlapping_image": false,
+        "section-width": "content",
+        "layout": "left",
+        "text_alignment": "left",
+        "title": "SHEERLUXE",
+        "text": "",
+        "button_label": "Read the article",
+        "button_link": "https://sheerluxe.com/fashion/whats-new-in-fashion-right-now-0"
+      }
     }
   },
   "order": [
     "main",
-    "image_image_with_text_mHWt8c"
+    "image_image_with_text_mHWt8c",
+    "image_image_with_text_DrDQCY"
   ]
 }
