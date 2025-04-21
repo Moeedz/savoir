@@ -414,6 +414,9 @@
         "image_TmzhUB",
         "image_a7WnLh"
       ],
+      "custom_css": [
+        "a {background: #fadbe4 !important; color: black !important; padding: 10px 25px; font-size: 14px !important;}"
+      ],
       "settings": {
         "items_gap": 6,
         "items_gap_mobile": 4,
@@ -566,6 +569,9 @@
         "image_XCFrFW",
         "image_MeqUNQ",
         "image_VRRBtV"
+      ],
+      "custom_css": [
+        "a {background: #fadbe4 !important; color: black !important; padding: 10px 25px; font-size: 12px !important;}"
       ],
       "settings": {
         "items_gap": 20,
