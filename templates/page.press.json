@@ -54,11 +54,31 @@
         "button_label": "Read the article",
         "button_link": "https://sheerluxe.com/fashion/whats-new-in-fashion-right-now-0"
       }
+    },
+    "image_image_with_text_KzmHYR": {
+      "type": "image--image-with-text",
+      "custom_css": [
+        "a {background: black; color: white;}",
+        "img {object-fit: contain !important;}"
+      ],
+      "settings": {
+        "colors": "white",
+        "image": "shopify://shop_images/IMG_4424.jpg",
+        "text_overlapping_image": false,
+        "section-width": "content",
+        "layout": "left",
+        "text_alignment": "left",
+        "title": "DRAPERS",
+        "text": "",
+        "button_label": "Read the article",
+        "button_link": "https://www.drapersonline.com/people/my-fashion-life/a-fashion-buyers-journey-from-selfridges-to-savoir"
+      }
     }
   },
   "order": [
     "main",
     "image_image_with_text_mHWt8c",
-    "image_image_with_text_DrDQCY"
+    "image_image_with_text_DrDQCY",
+    "image_image_with_text_KzmHYR"
   ]
 }
