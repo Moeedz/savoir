@@ -20,7 +20,8 @@
     "image_image_with_text_QQLWaE": {
       "type": "image--image-with-text",
       "custom_css": [
-        "p {font-size: 20px !important;}"
+        "p {font-size: 20px !important;}",
+        "h2 {font-size: 35px; font-weight: bold;}"
       ],
       "settings": {
         "colors": "white",
