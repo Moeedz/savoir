@@ -62,7 +62,7 @@
         "image_MDUBVG": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-108.jpg",
+            "desktop_image": "shopify://shop_images/IMG_0602.jpg",
             "heading": "",
             "heading_size": 30,
             "button_label": "",
@@ -80,7 +80,7 @@
         "image_nwiMV7": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-153_ceb4f87e-f341-4a33-9d4b-9a5dc79288d9.jpg",
+            "desktop_image": "shopify://shop_images/IMG_0669.jpg",
             "heading": "",
             "heading_size": 30,
             "button_label": "",
@@ -98,7 +98,7 @@
         "image_bD7wna": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-280_6c36a0db-03d2-4eb3-a80e-cd032fb575f4.jpg",
+            "desktop_image": "shopify://shop_images/fa95b76a-f598-4551-a0c3-16012f343b3e.jpg",
             "heading": "",
             "heading_size": 30,
             "button_label": "",
@@ -115,6 +115,7 @@
         },
         "image_UcjG4c": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-51_0e3e315b-c8f7-4980-b586-707d95bc87c2.jpg",
             "heading": "",
@@ -149,7 +150,7 @@
         "width_2": "2",
         "height_2": "3",
         "width_3": "2",
-        "height_3": "3",
+        "height_3": "2",
         "width_4": "2",
         "height_4": "3",
         "width_5": "2",
