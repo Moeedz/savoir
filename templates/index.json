@@ -36,7 +36,8 @@
         "heading_GKA78y"
       ],
       "custom_css": [
-        "[data-wetheme-section-type=\"text--rich-text\"] {padding: 10px 0 !important;}"
+        "[data-wetheme-section-type=\"text--rich-text\"] {padding: 10px 0 !important;}",
+        "h2 {font-size: 20px;}"
       ],
       "settings": {
         "colors": "white",
