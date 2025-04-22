@@ -41,7 +41,7 @@
             "caption-text": "#242424",
             "button-text": "#ffffff",
             "button-background": "#242424",
-            "hover-button-background": "#9F9F9F"
+            "hover-button-background": "#9f9f9f"
           }
         }
       },
@@ -55,10 +55,114 @@
         "slide_navigation_style": "bars",
         "slide_transition_delay": 7
       }
+    },
+    "collage_builder_wzCbYJ": {
+      "type": "collage-builder",
+      "blocks": {
+        "image_MDUBVG": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-108.jpg",
+            "heading": "",
+            "heading_size": 30,
+            "button_label": "",
+            "url": "",
+            "desktop_position": "md-min-align-top md-min-justify-left",
+            "mobile_position": "md-max-align-top md-max-justify-left",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#262428",
+            "button_hover_color": "#D4D3D4",
+            "button_hover_background_color": "#494949",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "image_nwiMV7": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-153_ceb4f87e-f341-4a33-9d4b-9a5dc79288d9.jpg",
+            "heading": "",
+            "heading_size": 30,
+            "button_label": "",
+            "url": "",
+            "desktop_position": "md-min-align-bottom md-min-justify-right",
+            "mobile_position": "md-max-align-bottom md-max-justify-right",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#262428",
+            "button_hover_color": "#D4D3D4",
+            "button_hover_background_color": "#494949",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "image_bD7wna": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-280_6c36a0db-03d2-4eb3-a80e-cd032fb575f4.jpg",
+            "heading": "",
+            "heading_size": 30,
+            "button_label": "",
+            "url": "",
+            "desktop_position": "md-min-align-bottom md-min-justify-right",
+            "mobile_position": "md-max-align-bottom md-max-justify-right",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#262428",
+            "button_hover_color": "#D4D3D4",
+            "button_hover_background_color": "#494949",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "image_UcjG4c": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-51_0e3e315b-c8f7-4980-b586-707d95bc87c2.jpg",
+            "heading": "",
+            "heading_size": 30,
+            "button_label": "",
+            "url": "",
+            "desktop_position": "md-min-align-bottom md-min-justify-right",
+            "mobile_position": "md-max-align-bottom md-max-justify-right",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#262428",
+            "button_hover_color": "#D4D3D4",
+            "button_hover_background_color": "#494949",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "image_MDUBVG",
+        "image_nwiMV7",
+        "image_bD7wna",
+        "image_UcjG4c"
+      ],
+      "settings": {
+        "color_scheme": "white",
+        "title": "",
+        "description": "",
+        "remove_spacing": false,
+        "section_width": "content",
+        "width_1": "2",
+        "height_1": "3",
+        "width_2": "2",
+        "height_2": "3",
+        "width_3": "2",
+        "height_3": "3",
+        "width_4": "2",
+        "height_4": "3",
+        "width_5": "2",
+        "height_5": "2",
+        "width_6": "1",
+        "height_6": "4",
+        "block_alignment": "center"
+      }
     }
   },
   "order": [
     "main",
-    "image_slideshow_xUeGQ3"
+    "image_slideshow_xUeGQ3",
+    "collage_builder_wzCbYJ"
   ]
 }
