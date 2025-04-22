@@ -22,6 +22,29 @@
         "layout": "right"
       }
     },
+    "text_rich_text_gRWyRB": {
+      "type": "text--rich-text",
+      "blocks": {
+        "heading_GKA78y": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to a world of fashion & frills"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GKA78y"
+      ],
+      "custom_css": [
+        "[data-wetheme-section-type=\"text--rich-text\"] {padding: 10px 0 !important;}"
+      ],
+      "settings": {
+        "colors": "white",
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "center"
+      }
+    },
     "image_slideshow_8ijpMy": {
       "type": "image--slideshow",
       "blocks": {
@@ -1057,6 +1080,7 @@
   },
   "order": [
     "2702beb3-827b-44e4-991e-9b79a8ccc045",
+    "text_rich_text_gRWyRB",
     "image_slideshow_8ijpMy",
     "ss_scrolling_announcement_bar_E7fcJa",
     "ss_featured_collection_tabs_jqxz3V",
