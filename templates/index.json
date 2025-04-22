@@ -37,7 +37,7 @@
       ],
       "custom_css": [
         "[data-wetheme-section-type=\"text--rich-text\"] {padding: 10px 0 !important;}",
-        "h2 {font-size: 20px;}"
+        "h2 {font-size: 19px;}"
       ],
       "settings": {
         "colors": "white",
