@@ -30,7 +30,7 @@
             "second_button_label": "",
             "second_button_link": "",
             "image": "shopify://shop_images/Screenshot_2025-02-25_at_11.01.45.png",
-            "desktop-caption-heading-size": 80,
+            "desktop-caption-heading-size": 70,
             "desktop-caption-body-text-size": 24,
             "text_position": "bottom",
             "mobile-caption-heading-size": 36,
@@ -50,8 +50,8 @@
       ],
       "custom_css": [],
       "settings": {
-        "desktop_height": "full_screen",
-        "mobile_height": "extra_large",
+        "desktop_height": "original",
+        "mobile_height": "original",
         "slide_navigation_style": "bars",
         "slide_transition_delay": 7
       }
