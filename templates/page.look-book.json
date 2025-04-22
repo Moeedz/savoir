@@ -23,10 +23,10 @@
         "image_DcMdMp": {
           "type": "image",
           "settings": {
-            "title": "Campaign Shoot I",
-            "text": "A pink abandoned house...",
+            "title": "Campaign Shoot II",
+            "text": "A Victorian house and garden...",
             "first_button_label": "Look Book",
-            "first_button_link": "",
+            "first_button_link": "shopify://pages/flipbook",
             "second_button_label": "",
             "second_button_link": "",
             "image": "shopify://shop_images/Screenshot_2025-02-25_at_11.01.45.png",
@@ -70,9 +70,9 @@
             "desktop_position": "md-min-align-top md-min-justify-left",
             "mobile_position": "md-max-align-top md-max-justify-left",
             "text_color": "#262428",
-            "button_color": "#E6E5E7",
+            "button_color": "#e6e5e7",
             "button_background_color": "#262428",
-            "button_hover_color": "#D4D3D4",
+            "button_hover_color": "#d4d3d4",
             "button_hover_background_color": "#494949",
             "overlay_color": "rgba(0,0,0,0)"
           }
@@ -88,9 +88,9 @@
             "desktop_position": "md-min-align-bottom md-min-justify-right",
             "mobile_position": "md-max-align-bottom md-max-justify-right",
             "text_color": "#262428",
-            "button_color": "#E6E5E7",
+            "button_color": "#e6e5e7",
             "button_background_color": "#262428",
-            "button_hover_color": "#D4D3D4",
+            "button_hover_color": "#d4d3d4",
             "button_hover_background_color": "#494949",
             "overlay_color": "rgba(0,0,0,0)"
           }
@@ -106,9 +106,9 @@
             "desktop_position": "md-min-align-bottom md-min-justify-right",
             "mobile_position": "md-max-align-bottom md-max-justify-right",
             "text_color": "#262428",
-            "button_color": "#E6E5E7",
+            "button_color": "#e6e5e7",
             "button_background_color": "#262428",
-            "button_hover_color": "#D4D3D4",
+            "button_hover_color": "#d4d3d4",
             "button_hover_background_color": "#494949",
             "overlay_color": "rgba(0,0,0,0)"
           }
@@ -124,9 +124,9 @@
             "desktop_position": "md-min-align-bottom md-min-justify-right",
             "mobile_position": "md-max-align-bottom md-max-justify-right",
             "text_color": "#262428",
-            "button_color": "#E6E5E7",
+            "button_color": "#e6e5e7",
             "button_background_color": "#262428",
-            "button_hover_color": "#D4D3D4",
+            "button_hover_color": "#d4d3d4",
             "button_hover_background_color": "#494949",
             "overlay_color": "rgba(0,0,0,0)"
           }
