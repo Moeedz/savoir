@@ -1,11 +1,15 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
 <head>
-  <style>
-    .homepage-featured-content-box-inner {
+ {% if template.name != "index" %} 
+ <style>
+   .homepage-featured-content-box-inner {
     background: white !important;
     padding: 10px 30px !important;
 }
+    </style>
+  {% endif %}
+  <style>
     .label-font, .spr-form-label {
     text-transform: capitalize !important;
 }
