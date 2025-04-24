@@ -1025,7 +1025,7 @@
         "testimonial_wF8QpF": {
           "type": "testimonial",
           "settings": {
-            "text": "I recently had the pleasure of ordering a dress from Savoir, and I can confidently say this is a business that deserves recognition. From start to finish, the experience was nothing short of exceptional. The customer service was absolutely top-tier. Every interaction was warm, professional, and deeply personalised. Jenny at Savoir went above and beyond to ensure I felt valued, answering my questions with genuine care and helping me select a piece that was perfect for me Now, the dress itself—what a masterpiece!",
+            "text": "\" I recently had the pleasure of ordering from Savoir, and I can confidently say this is a business that deserves recognition. From start to finish, the experience was nothing short of exceptional. Jenny at Savoir went above and beyond to ensure I felt valued, answering my questions with genuine care and helping me select a piece that was perfect for me \"",
             "rating": 4.8
           }
         },
@@ -1121,7 +1121,7 @@
         "testimonial_text_font": "josefin_sans_n4",
         "testimonial_text_size": 20,
         "testimonial_text_size_mobile": 16,
-        "testimonial_text_height": 100,
+        "testimonial_text_height": 140,
         "testimonial_rating_custom": false,
         "testimonial_rating_font": "josefin_sans_n4",
         "testimonial_rating_size": 24,
