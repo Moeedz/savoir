@@ -442,8 +442,8 @@
         "a {background: #fadbe4 !important; color: black !important; padding: 10px 25px; font-size: 14px !important;}"
       ],
       "settings": {
-        "items_gap": 6,
-        "items_gap_mobile": 4,
+        "items_gap": 0,
+        "items_gap_mobile": 0,
         "row_height": 300,
         "row_height_mobile": 200,
         "background_color": "#ffffff",
@@ -598,8 +598,8 @@
         "a {background: #fadbe4 !important; color: black !important; padding: 10px 25px; font-size: 12px !important;}"
       ],
       "settings": {
-        "items_gap": 20,
-        "items_gap_mobile": 4,
+        "items_gap": 0,
+        "items_gap_mobile": 0,
         "row_height": 300,
         "row_height_mobile": 200,
         "background_color": "#ffffff",
