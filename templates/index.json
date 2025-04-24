@@ -332,9 +332,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -362,9 +362,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -392,9 +392,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -423,9 +423,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -1022,8 +1022,16 @@
     "ss_testimonial_6_qhJCwJ": {
       "type": "ss-testimonial-6",
       "blocks": {
+        "testimonial_wF8QpF": {
+          "type": "testimonial",
+          "settings": {
+            "text": "I recently had the pleasure of ordering a dress from Savoir, and I can confidently say this is a business that deserves recognition. From start to finish, the experience was nothing short of exceptional. The customer service was absolutely top-tier. Every interaction was warm, professional, and deeply personalised. Jenny at Savoir went above and beyond to ensure I felt valued, answering my questions with genuine care and helping me select a piece that was perfect for me Now, the dress itself—what a masterpiece!",
+            "rating": 4.8
+          }
+        },
         "testimonial_Y9aWVL": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "text": "Quality",
             "rating": 4.8
@@ -1085,6 +1093,7 @@
         }
       },
       "block_order": [
+        "testimonial_wF8QpF",
         "testimonial_Y9aWVL",
         "image_8MqjXW",
         "image_APpnxE",
