@@ -11,29 +11,398 @@
   "sections": {
     "main": {
       "type": "template--page",
+      "disabled": true,
       "settings": {
         "page_title_enabled": true,
         "page_width": "full-width"
       }
     },
-    "video_video_JiiUtT": {
-      "type": "video--video",
+    "image_image_with_text_y9QJAx": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
-        "title": "",
-        "richtext": "",
-        "width_classes": 75,
-        "video": "shopify://files/videos/ScreenRecording_04-15-2025 23-27-25_1.mov",
-        "url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "autoplay": false,
-        "loop": true,
-        "mute": false,
-        "video_overlay_opacity": 50
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_CKpqbC": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_WyBC37": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_9Yzn6A": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_YrLXqX": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_h8cBc4": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_PVeThz": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_RAiWGx": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_eVP3MJ": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_6WzBhF": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_kK9x6e": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_3nAkwq": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_rd7Mx8": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_kFk6rk": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_UmrEBR": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_8HLQN6": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_gKwq6q": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_Tpirib": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_qhJEyJ": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_6xRCcH": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_rDitfM": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_LF6xaF": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_nA4nhT": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "image_image_with_text_FTTWXq": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "button_label": "",
+        "button_link": ""
       }
     }
   },
   "order": [
     "main",
-    "video_video_JiiUtT"
+    "image_image_with_text_y9QJAx",
+    "image_image_with_text_CKpqbC",
+    "image_image_with_text_WyBC37",
+    "image_image_with_text_9Yzn6A",
+    "image_image_with_text_YrLXqX",
+    "image_image_with_text_h8cBc4",
+    "image_image_with_text_PVeThz",
+    "image_image_with_text_RAiWGx",
+    "image_image_with_text_eVP3MJ",
+    "image_image_with_text_6WzBhF",
+    "image_image_with_text_kK9x6e",
+    "image_image_with_text_3nAkwq",
+    "image_image_with_text_rd7Mx8",
+    "image_image_with_text_kFk6rk",
+    "image_image_with_text_UmrEBR",
+    "image_image_with_text_8HLQN6",
+    "image_image_with_text_gKwq6q",
+    "image_image_with_text_Tpirib",
+    "image_image_with_text_qhJEyJ",
+    "image_image_with_text_6xRCcH",
+    "image_image_with_text_rDitfM",
+    "image_image_with_text_LF6xaF",
+    "image_image_with_text_nA4nhT",
+    "image_image_with_text_FTTWXq"
   ]
 }
