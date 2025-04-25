@@ -23,7 +23,7 @@
         "colors": "white",
         "image": "shopify://shop_images/Screenshot_2024-03-18_at_11.30.58.png",
         "text_overlapping_image": false,
-        "section-width": "full",
+        "section-width": "content",
         "layout": "left",
         "text_alignment": "left",
         "title": "CIAO LUCIA",
