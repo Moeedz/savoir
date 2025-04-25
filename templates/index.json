@@ -58,7 +58,7 @@
             "first_button_link": "",
             "second_button_label": "",
             "second_button_link": "",
-            "image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-153_45275d9c-6e2f-4688-b379-854910d6bd3e.jpg",
+            "image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-253_913818b6-b05a-4f36-a245-ce5ce8e22eee.jpg",
             "desktop-caption-heading-size": 80,
             "desktop-caption-body-text-size": 24,
             "text_position": "center_left",
@@ -455,9 +455,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -485,9 +485,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -515,9 +515,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -545,9 +545,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         }
@@ -735,9 +735,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -765,9 +765,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -795,9 +795,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         },
@@ -825,9 +825,9 @@
             "content_padding_horizontal": 16,
             "content_padding_vertical": 16,
             "bg_color": "#000000",
-            "heading_color": "#FFFFFF",
-            "link_color": "#FFFFFF",
-            "link_hover_color": "#FFFFFF",
+            "heading_color": "#ffffff",
+            "link_color": "#ffffff",
+            "link_hover_color": "#ffffff",
             "overlay_color": "#000000"
           }
         }
