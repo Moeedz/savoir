@@ -64,22 +64,24 @@
             "product_card_title__font": "body"
           }
         },
+        "product_card_vendor_iPMmVN": {
+          "type": "product_card_vendor",
+          "settings": {
+            "product_card_vendor__font": "body"
+          }
+        },
         "product_card_price": {
           "type": "product_card_price",
           "settings": {
             "product_card_price__font": "body"
           }
-        },
-        "product_card_quick_shop": {
-          "type": "product_card_quick_shop",
-          "settings": {}
         }
       },
       "block_order": [
         "product_card_image",
         "product_card_title",
-        "product_card_price",
-        "product_card_quick_shop"
+        "product_card_vendor_iPMmVN",
+        "product_card_price"
       ],
       "settings": {
         "products-per-page": 10,
