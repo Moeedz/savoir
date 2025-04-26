@@ -37,14 +37,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2025-01-06_at_09.42.18.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "SELEZZA",
+        "text": "<p>Selezza is a London-based label reinventing tulle. Offering the contemporary vision of romanticism in fashion, Selezza London serves its own point of view on modern party wear concepts.</p>",
+        "button_label": "Shop Selezza",
+        "button_link": "shopify://collections/selezza"
       }
     },
     "image_image_with_text_WyBC37": {
@@ -52,14 +53,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-18_at_12.58.58.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "OLGA BERG",
+        "text": "<p>With an eye for all things beautiful, our founder Olga Gartenberg established her signature brand, carving out a niche creating exclusive evening and special occasion bags, clutches, and head pieces for women who know their style and like to have fun with their accessories.</p>",
+        "button_label": "Shop Olga Berg",
+        "button_link": "shopify://collections/olga-berg"
       }
     },
     "image_image_with_text_9Yzn6A": {
@@ -67,14 +69,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-05-22_at_15.45.38.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "SISSEL EDELBO",
+        "text": "<p>Since 2004, we have lovingly crafted the story of Sissel Edelbo. A tale of creativity, responsibility, and a love for Indian culture and its most beautiful treasure trove of vintage materials and craftsmanship. Behind Sissel Edelbo stands the couple Jeanne Sissel Thomsen and Chris Elmengaard.</p>",
+        "button_label": "Shop Sissel Edelbo",
+        "button_link": "shopify://collections/sissel-edelbo"
       }
     },
     "image_image_with_text_YrLXqX": {
@@ -82,14 +85,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-24_at_13.06.22.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "ACORN AND WILL",
+        "text": "<p>One day, Daniella decided that life was too short not to be doing something she loved, and so acorn & will was born. She put together a collection of products that are fun, affordable and eye-catching, and the range successfully reflects that desire.</p>",
+        "button_label": "Shop Acorn and Will",
+        "button_link": "shopify://collections/acorn-and-will"
       }
     },
     "image_image_with_text_h8cBc4": {
@@ -97,14 +101,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-24_at_13.08.26.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "CINTA THE LABEL",
+        "text": "<p>Cinta takes inspiration from adventure, vintage heirlooms, a love for whimsical but practical collections, people and spiritual journeys. We aim to bring fun, timeless pieces to your wardrobe, celebrating women of all ages!</p>",
+        "button_label": "Shop Cinta",
+        "button_link": "shopify://collections/cinta"
       }
     },
     "image_image_with_text_PVeThz": {
@@ -112,14 +117,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-24_at_13.08.52.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "MADELINE MARIE",
+        "text": "<p>Madeline Marie is a custom dress line, handmade in New York City. Each dress is carefully designed using vintage and locally sourced material. Here at Madeline Marie we are focused in slow fashion, creating pieces that are seasonless, timeless and high quality.</p>",
+        "button_label": "Shop Madeline Marie",
+        "button_link": "shopify://collections/madeline-marie"
       }
     },
     "image_image_with_text_RAiWGx": {
@@ -127,14 +133,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/GENOVAMULTISTRIPE321-232DS900MULTI6.jpg",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "DAWN X DARE",
+        "text": "<p>The idea behind the brand is to create a collection, with all the need-to-have loveable happy colorful hand knits you just feel like jumping into in the morning from early ”DAWN” till late at night, where the party begins and the dresses need a more cool edginess ”DARE” Our signature is the colorful stripes in endless .</p>",
+        "button_label": "Shop Dawn x Dare",
+        "button_link": "shopify://collections/dawn-x-dare"
       }
     },
     "image_image_with_text_eVP3MJ": {
@@ -142,14 +149,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-24_at_12.42.38.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "THE JACKSONS",
+        "text": "<p>Designed in our Notting Hill shop & then handmade by women in Bangladesh. No two bags or placemats are exactly the same. Playful, stylish, strong & easy to travel with.</p>",
+        "button_label": "Shop The Jacksons",
+        "button_link": "shopify://collections/the-jacksons"
       }
     },
     "image_image_with_text_6WzBhF": {
@@ -157,14 +165,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-07-01_at_21.27.30.webp",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "PUPPETS AND PUPPETS",
+        "text": "<p>Puppets and Puppets isa means to merge fine art and fashion simultaneously. We explore classic storytelling, non-traditional styling, and sculptural construction through clothing, as well as utility, comfort, and mindfulness.</p>",
+        "button_label": "Shop Puppets and Puppets",
+        "button_link": "shopify://collections/puppets-and-puppets"
       }
     },
     "image_image_with_text_kK9x6e": {
@@ -172,14 +181,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-05-22_at_15.49.19.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "UNSELFISH LOVER",
+        "text": "<p>The designs are all about colour mixing, beautiful cuts and unique timeless pieces, with that vintage looking touch. All the clothes are handmade in Brasil (Priscila's home country).</p>",
+        "button_label": "Shop Unselfish Lover",
+        "button_link": "shopify://collections/unselfish-lover"
       }
     },
     "image_image_with_text_3nAkwq": {
@@ -187,14 +197,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-05-22_at_15.43.08.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "MICROWAVE",
+        "text": "<p>A contemporary fashion brand from Japan with a focus on mixing jersey and tulle to make each piece a statement. Exclusive to Savoir.</p>",
+        "button_label": "Shop Microwave",
+        "button_link": "shopify://collections/microwave"
       }
     },
     "image_image_with_text_rd7Mx8": {
@@ -202,14 +213,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-05-22_at_15.44.36.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "ALISDA",
+        "text": "<p>Handmade in Turkey, each knitwear piece is about turning imagination into a wearable cardigan to treasure forever. With nods to vintage and crochet</p>",
+        "button_label": "Shop Alisda",
+        "button_link": "shopify://collections/alisda"
       }
     },
     "image_image_with_text_kFk6rk": {
@@ -217,14 +229,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-10_at_14.12.49.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "ELEGANT FLAIR",
+        "text": "<p>All of our products are handcrafted by Samantha right here in Pittsburgh, PA, with so much love and care. The ability to create truly unique and meaningful pieces is something that has filled her with joy since she was 10 years old.</p>",
+        "button_label": "Shop Elegant Flair",
+        "button_link": "shopify://collections/elegant-flair"
       }
     },
     "image_image_with_text_UmrEBR": {
@@ -232,14 +245,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/IMG_0454.jpg",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "SABBI",
+        "text": "<p>Welcome to Sabbi, the brainchild of Jase and Ash, two Gold Coast locals who love fashion, fun and a cold margarita. Here at Sabbi we are big on energy so wanted to create a brand that balances resortwear alongside streetwear elements, tied together with a bright and positive energy.</p>",
+        "button_label": "Shop Sabbi",
+        "button_link": "shopify://collections/sabbi"
       }
     },
     "image_image_with_text_8HLQN6": {
@@ -247,14 +261,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot2024-04-25at12.33.33.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "SIKA",
+        "text": "<p>All Sika garments are designed in London and handmade in Ghana (West Africa) by our skilled garment production team.</p>",
+        "button_label": "Shop Sika",
+        "button_link": "shopify://collections/sika"
       }
     },
     "image_image_with_text_gKwq6q": {
@@ -262,14 +277,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-18_at_13.00.42.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "BY ALONA",
+        "text": "<p>By Alona is inspired by her Middle Eastern and European background, and seeks to translate the lost treasures of the Mediterranean into an effortless-yet-opulent aesthetic.</p>",
+        "button_label": "Shop By Alona",
+        "button_link": "shopify://collections/by-alona"
       }
     },
     "image_image_with_text_Tpirib": {
@@ -277,14 +293,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-18_at_13.12.28.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "POPSKI",
+        "text": "<p>We are passionate about creating timeless pieces that are luxurious whilst still being individual and stylish. Most importantly, we want you to feel gorgeous when you wear our clothes.</p>",
+        "button_label": "Shop Popski",
+        "button_link": "shopify://collections/popski"
       }
     },
     "image_image_with_text_qhJEyJ": {
@@ -292,14 +309,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-18_at_12.56.06.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "FLABELUS",
+        "text": "<p>Flabelus are timeless slippers inspired in the Italian design of the furlane and reinvented for the modern men and women. This new take on furlane are handcrafted in Spain, maintaining their colourful tradition and recycled bicycle tire soles.</p>",
+        "button_label": "Shop Flabelus",
+        "button_link": "shopify://collections/flabelus"
       }
     },
     "image_image_with_text_6xRCcH": {
@@ -307,14 +325,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-18_at_12.59.40.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "CELIA B",
+        "text": "<p>Celia Bernardo is the founder and driving force behind Celia B. Channelling her love for travel and her passion for handcrafted pieces, she collects textiles, patterns and inspiration from all over the world: from the jungles and beaches of Latin America to the Moroccan medinas.</p>",
+        "button_label": "Shop Celia B",
+        "button_link": "shopify://collections/celia-b"
       }
     },
     "image_image_with_text_rDitfM": {
@@ -322,14 +341,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-18_at_13.01.21.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "ARIAT",
+        "text": "<p>Ariat, predominantly an equestrian product is crossing over into fashion with its western boots that are not only the perfect colour and height, but are comfortable too.</p>",
+        "button_label": "Shop Ariat",
+        "button_link": "shopify://collections/ariat"
       }
     },
     "image_image_with_text_LF6xaF": {
@@ -337,14 +357,15 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2024-06-24_at_12.23.03.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "QUEENS OF ARCHIVE",
+        "text": "<p>Queens of archive is an independent brand run by women, for women. Born from vintage influence and female empowerment we create timeless, feminine, easy-to-wear dresses inspired by a bygone era. We keep our styles current, using bespoke prints and fabrications sourced and designed in-house.</p>",
+        "button_label": "Shop QOA",
+        "button_link": "shopify://collections/queens-of-archive"
       }
     },
     "image_image_with_text_nA4nhT": {
@@ -352,29 +373,31 @@
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2025-02-19_at_14.20.38.png",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "left",
         "text_alignment": "left",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "PRIMECUT",
+        "text": "<p>Primecut bags are handcrafted in Portland, Oregon workshop. Each bag is carefully constructed, taking into account the unique properties of the materials used.</p><p>Founded in 2013, deep in the confines of her basement, Lizzie began experimenting with leather bags. She was intrigued by the diversity and unique properties of hair-on-hide. Using her mother’s old Pfaff sewing machine along with an old Yamata industrial machine, she experimented with different leathers, sizes, proportions, and manufacturing techniques.</p>",
+        "button_label": "Shop Primecut",
+        "button_link": "shopify://collections/primecut"
       }
     },
-    "image_image_with_text_FTTWXq": {
+    "image_image_with_text_DaiGUn": {
       "type": "image--image-with-text",
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
-        "colors": "white",
+        "colors": "light",
+        "image": "shopify://shop_images/Screenshot_2025-02-19_at_17.50.26.png",
         "text_overlapping_image": false,
         "section-width": "full",
-        "layout": "right",
-        "text_alignment": "right",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-        "button_label": "",
-        "button_link": ""
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "MONIKA THE LABEL",
+        "text": "<p>Monika The Label is a love affair between Cali cool and East London grunge. Inspired by all the best parts of the '70s, we design sustainable clothes for wild-hearted women who want to make a change and feel pretty damn cool when they do it. We're all about slow fashion and environmentally friendly fabrics.</p>",
+        "button_label": "Shop Monika The Label",
+        "button_link": "shopify://collections/monika-the-label"
       }
     }
   },
@@ -403,6 +426,6 @@
     "image_image_with_text_rDitfM",
     "image_image_with_text_LF6xaF",
     "image_image_with_text_nA4nhT",
-    "image_image_with_text_FTTWXq"
+    "image_image_with_text_DaiGUn"
   ]
 }
