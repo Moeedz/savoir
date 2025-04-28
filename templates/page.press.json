@@ -17,6 +17,51 @@
         "page_width": "full-width"
       }
     },
+    "image_logo_list_H34A9J": {
+      "type": "image--logo-list",
+      "blocks": {
+        "logo_image_qJYAwA": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/SL-Primary-Logo-Outlined-Black.png",
+            "link": ""
+          }
+        },
+        "logo_image_BJn4BV": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/kisspng-the-daily-telegraph-newspaper-logo-united-kingdom-5b331cebb49f71.4081396515300763957398.jpg",
+            "link": ""
+          }
+        },
+        "logo_image_WXwm7r": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/logo-drapers2.svg",
+            "link": ""
+          }
+        },
+        "logo_image_UDdmUB": {
+          "type": "logo_image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_qJYAwA",
+        "logo_image_BJn4BV",
+        "logo_image_WXwm7r",
+        "logo_image_UDdmUB"
+      ],
+      "name": "t:sections.image--logo-list.presets.name",
+      "settings": {
+        "colors": "white",
+        "width": 200,
+        "title": "As seen in"
+      }
+    },
     "image_image_with_text_mHWt8c": {
       "type": "image--image-with-text",
       "custom_css": [
@@ -77,6 +122,7 @@
   },
   "order": [
     "main",
+    "image_logo_list_H34A9J",
     "image_image_with_text_mHWt8c",
     "image_image_with_text_DrDQCY",
     "image_image_with_text_KzmHYR"
