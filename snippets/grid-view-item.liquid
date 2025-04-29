@@ -86,6 +86,11 @@
           {% unless product.available %}
             {%- render 'badge' with 'sold-out' -%}
           {% endunless %}
+          
+          {%- if card_product.tags contains 'more-colours' -%}
+    <span class="badge-more-colours">More Colours</span>
+  {%- endif -%}
+          
         {% endif %}
 
         {% if settings.hover-effect and product.media.size > 1 %}
