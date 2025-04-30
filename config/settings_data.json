@@ -79,11 +79,6 @@
     "checkout_logo_size": "medium",
     "content_for_index": [],
     "blocks": {
-      "13951170544780599758": {
-        "type": "shopify://apps/tapita-seo-speed/blocks/app-embed/cd37ca7a-40ad-4fdc-afd3-768701482209",
-        "disabled": false,
-        "settings": {}
-      },
       "6986766168588894248": {
         "type": "shopify://apps/preorder-now-wolf/blocks/app-embed/7ee1d740-e67b-4ea8-b0c9-1f62cb8777ec",
         "disabled": false,
