@@ -881,7 +881,7 @@
           "settings": {
             "image": "shopify://shop_images/04_28_savoir_catalog-110.jpg",
             "title": "In demand",
-            "image_link": "",
+            "image_link": "shopify://products/don-julio-youre-beautiful-shirt-copy",
             "button": "Learn more",
             "url": ""
           }
@@ -911,7 +911,7 @@
           "settings": {
             "image": "shopify://shop_images/04_28_savoir_catalog-163.jpg",
             "title": "Hero product",
-            "image_link": "",
+            "image_link": "shopify://collections/primecut",
             "button": "Learn more",
             "url": ""
           }
@@ -931,7 +931,7 @@
           "settings": {
             "image": "shopify://shop_images/04_28_savoir_catalog-116.jpg",
             "title": "New In",
-            "image_link": "",
+            "image_link": "shopify://collections/new-in",
             "button": "Learn more",
             "url": ""
           }
