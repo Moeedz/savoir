@@ -935,6 +935,16 @@
             "button": "Learn more",
             "url": ""
           }
+        },
+        "slide_4AfBCC": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-04-28_at_20.45.42.png",
+            "title": "Jelly Shoes",
+            "image_link": "shopify://collections/juju",
+            "button": "Learn more",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -943,7 +953,8 @@
         "slide_ADLJMT",
         "slide_ViWy4Y",
         "slide_7nkmxA",
-        "slide_9dMcfr"
+        "slide_9dMcfr",
+        "slide_4AfBCC"
       ],
       "settings": {
         "slider_view": 5,
