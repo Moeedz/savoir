@@ -921,7 +921,7 @@
           "settings": {
             "image": "shopify://shop_images/Savoir_revelrylodge-253.jpg",
             "title": "Photo Shoot",
-            "image_link": "",
+            "image_link": "shopify://pages/campaign",
             "button": "Learn more",
             "url": ""
           }
