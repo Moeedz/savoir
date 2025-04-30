@@ -883,7 +883,7 @@
             "title": "In demand",
             "image_link": "shopify://products/don-julio-youre-beautiful-shirt-copy",
             "button": "Learn more",
-            "url": ""
+            "url": "shopify://products/don-julio-youre-beautiful-shirt-copy"
           }
         },
         "slide_btbj7Y": {
@@ -893,7 +893,7 @@
             "title": "Buyer's Picks",
             "image_link": "shopify://collections/jennys-picks",
             "button": "Learn more",
-            "url": ""
+            "url": "shopify://collections/jennys-picks"
           }
         },
         "slide_ADLJMT": {
@@ -903,7 +903,7 @@
             "title": "New Stock",
             "image_link": "shopify://collections/new-in",
             "button": "Learn more",
-            "url": ""
+            "url": "shopify://collections/new-in"
           }
         },
         "slide_ViWy4Y": {
@@ -913,7 +913,7 @@
             "title": "Hero product",
             "image_link": "shopify://collections/primecut",
             "button": "Learn more",
-            "url": ""
+            "url": "shopify://collections/primecut"
           }
         },
         "slide_7nkmxA": {
@@ -923,7 +923,7 @@
             "title": "Photo Shoot",
             "image_link": "shopify://pages/test",
             "button": "Learn more",
-            "url": ""
+            "url": "shopify://pages/test"
           }
         },
         "slide_9dMcfr": {
@@ -933,7 +933,7 @@
             "title": "New In",
             "image_link": "shopify://collections/new-in",
             "button": "Learn more",
-            "url": ""
+            "url": "shopify://collections/new-in"
           }
         },
         "slide_4AfBCC": {
@@ -943,7 +943,7 @@
             "title": "Jelly Shoes",
             "image_link": "shopify://collections/juju",
             "button": "Learn more",
-            "url": ""
+            "url": "shopify://collections/juju"
           }
         }
       },
