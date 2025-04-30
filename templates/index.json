@@ -879,8 +879,8 @@
         "slide_YL3Pwz": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/0FA393A2-61B7-4B56-A4F9-409382C67CF5.png",
-            "title": "Best Seller",
+            "image": "shopify://shop_images/04_28_savoir_catalog-110.jpg",
+            "title": "In demand",
             "image_link": "",
             "button": "Learn more",
             "url": ""
@@ -909,8 +909,8 @@
         "slide_ViWy4Y": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/12_11_savoir-17.jpg",
-            "title": "Best Seller",
+            "image": "shopify://shop_images/04_28_savoir_catalog-163.jpg",
+            "title": "Hero product",
             "image_link": "",
             "button": "Learn more",
             "url": ""
@@ -929,7 +929,7 @@
         "slide_9dMcfr": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/6784BF1D-5C2F-4F1D-BE1B-533337BD21AB.png",
+            "image": "shopify://shop_images/04_28_savoir_catalog-116.jpg",
             "title": "New In",
             "image_link": "",
             "button": "Learn more",
