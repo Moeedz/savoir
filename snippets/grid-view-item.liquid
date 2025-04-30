@@ -90,6 +90,14 @@
           {%- if product.tags contains 'more-colours' -%}
     <span class="badge-more-colours">More Colours</span>
   {%- endif -%}
+
+        {%- if product.tags contains 'last-one' -%}
+    <span class="badge-more-colours">Last One</span>
+  {%- endif -%}
+
+        {%- if product.tags contains 'low-stock' -%}
+    <span class="badge-more-colours">Low Stock</span>
+  {%- endif -%}
           
        
           
