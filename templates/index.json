@@ -901,7 +901,7 @@
           "settings": {
             "image": "shopify://shop_images/12_11_savoir-76.jpg",
             "title": "New Stock",
-            "image_link": "",
+            "image_link": "shopify://collections/new-in",
             "button": "Learn more",
             "url": ""
           }
