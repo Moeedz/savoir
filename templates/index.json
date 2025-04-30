@@ -890,8 +890,8 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/20250205_123908.jpg",
-            "title": "Buyer's Pick",
-            "image_link": "",
+            "title": "Buyer's Picks",
+            "image_link": "shopify://collections/jennys-picks",
             "button": "Learn more",
             "url": ""
           }
