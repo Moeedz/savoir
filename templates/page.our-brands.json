@@ -161,12 +161,12 @@
         "card_dYj87R": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2024-06-18_at_12.58.58.webp",
+            "image": "shopify://shop_images/Screenshot_2024-06-24_at_13.08.26.webp",
             "sub_title": "",
-            "title": "OLGA BERG",
-            "text": "<p>With an eye for all things beautiful, our founder Olga Gartenberg established her signature brand, carving out a niche creating exclusive evening and special occasion bags, clutches, and head pieces for women who know their style and like to have fun with their accessories.</p>",
-            "button": "Shop Olga Berg",
-            "button_url": ""
+            "title": "CINTA THE LABEL",
+            "text": "<p>Cinta takes inspiration from adventure, vintage heirlooms, a love for whimsical but practical collections, people and spiritual journeys. We aim to bring fun, timeless pieces to your wardrobe, celebrating women of all ages!</p>",
+            "button": "Shop Cinta The Label",
+            "button_url": "shopify://collections/cinta"
           }
         }
       },
@@ -248,54 +248,6 @@
         "border_thickness": 0,
         "section_radius": 0,
         "lazy": true
-      }
-    },
-    "image_image_with_text_9Yzn6A": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2024-05-22_at_15.45.38.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "right",
-        "text_alignment": "right",
-        "title": "SISSEL EDELBO",
-        "text": "<p>Since 2004, we have lovingly crafted the story of Sissel Edelbo. A tale of creativity, responsibility, and a love for Indian culture and its most beautiful treasure trove of vintage materials and craftsmanship. Behind Sissel Edelbo stands the couple Jeanne Sissel Thomsen and Chris Elmengaard.</p>",
-        "button_label": "Shop Sissel Edelbo",
-        "button_link": "shopify://collections/sissel-edelbo"
-      }
-    },
-    "image_image_with_text_YrLXqX": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2024-06-24_at_13.06.22.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "left",
-        "text_alignment": "left",
-        "title": "ACORN AND WILL",
-        "text": "<p>One day, Daniella decided that life was too short not to be doing something she loved, and so acorn & will was born. She put together a collection of products that are fun, affordable and eye-catching, and the range successfully reflects that desire.</p>",
-        "button_label": "Shop Acorn and Will",
-        "button_link": "shopify://collections/acorn-and-will"
-      }
-    },
-    "image_image_with_text_h8cBc4": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2024-06-24_at_13.08.26.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "right",
-        "text_alignment": "right",
-        "title": "CINTA THE LABEL",
-        "text": "<p>Cinta takes inspiration from adventure, vintage heirlooms, a love for whimsical but practical collections, people and spiritual journeys. We aim to bring fun, timeless pieces to your wardrobe, celebrating women of all ages!</p>",
-        "button_label": "Shop Cinta",
-        "button_link": "shopify://collections/cinta"
       }
     },
     "image_image_with_text_PVeThz": {
@@ -591,9 +543,6 @@
     "main",
     "ss_collection_14_BDkcPq",
     "ss_collection_14_wVAR86",
-    "image_image_with_text_9Yzn6A",
-    "image_image_with_text_YrLXqX",
-    "image_image_with_text_h8cBc4",
     "image_image_with_text_PVeThz",
     "image_image_with_text_RAiWGx",
     "image_image_with_text_eVP3MJ",
