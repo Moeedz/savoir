@@ -835,52 +835,121 @@
         "lazy": true
       }
     },
-    "image_image_with_text_LF6xaF": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
+    "ss_collection_14_DF8CVN": {
+      "type": "ss-collection-14",
+      "blocks": {
+        "card_jMqKag": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-06-24_at_12.23.03.webp",
+            "sub_title": "",
+            "title": "QUEENS OF ARCHIVE",
+            "text": "<p>Queens of archive is an independent brand run by women, for women. Born from vintage influence and female empowerment we create timeless, feminine, easy-to-wear dresses inspired by a bygone era. We keep our styles current, using bespoke prints and fabrications sourced and designed in-house.</p>",
+            "button": "Shop QOA",
+            "button_url": "shopify://collections/queens-of-archive"
+          }
+        },
+        "card_QWmpbV": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-19_at_14.20.38.webp",
+            "sub_title": "",
+            "title": "PRIMECUT",
+            "text": "<p>Primecut bags are handcrafted in Portland, Oregon workshop. Each bag is carefully constructed, taking into account the unique properties of the materials used. Founded in 2013, deep in the confines of her basement, Lizzie began experimenting with leather bags. She was intrigued by the diversity and unique properties of hair-on-hide. Using her mother’s old Pfaff sewing machine along with an old Yamata industrial machine, she experimented with different leathers, sizes, proportions, and manufacturing techniques.</p>",
+            "button": "Shop Primecut",
+            "button_url": "shopify://collections/primecut"
+          }
+        },
+        "card_UMwhmm": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-19_at_17.50.26.webp",
+            "sub_title": "",
+            "title": "MONIKA THE LABEL",
+            "text": "<p>Monika The Label is a love affair between Cali cool and East London grunge. Inspired by all the best parts of the '70s, we design sustainable clothes for wild-hearted women who want to make a change and feel pretty damn cool when they do it. We're all about slow fashion and environmentally friendly fabrics.</p>",
+            "button": "Shop Monika The Label",
+            "button_url": "shopify://collections/monika-the-label"
+          }
+        }
+      },
+      "block_order": [
+        "card_jMqKag",
+        "card_QWmpbV",
+        "card_UMwhmm"
+      ],
+      "name": "SS - Collection #14",
       "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2024-06-24_at_12.23.03.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "right",
-        "text_alignment": "right",
-        "title": "QUEENS OF ARCHIVE",
-        "text": "<p>Queens of archive is an independent brand run by women, for women. Born from vintage influence and female empowerment we create timeless, feminine, easy-to-wear dresses inspired by a bygone era. We keep our styles current, using bespoke prints and fabrications sourced and designed in-house.</p>",
-        "button_label": "Shop QOA",
-        "button_link": "shopify://collections/queens-of-archive"
-      }
-    },
-    "image_image_with_text_nA4nhT": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2025-02-19_at_14.20.38.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "left",
-        "text_alignment": "left",
-        "title": "PRIMECUT",
-        "text": "<p>Primecut bags are handcrafted in Portland, Oregon workshop. Each bag is carefully constructed, taking into account the unique properties of the materials used.</p><p>Founded in 2013, deep in the confines of her basement, Lizzie began experimenting with leather bags. She was intrigued by the diversity and unique properties of hair-on-hide. Using her mother’s old Pfaff sewing machine along with an old Yamata industrial machine, she experimented with different leathers, sizes, proportions, and manufacturing techniques.</p>",
-        "button_label": "Shop Primecut",
-        "button_link": "shopify://collections/primecut"
-      }
-    },
-    "image_image_with_text_DaiGUn": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2025-02-19_at_17.50.26.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "left",
-        "text_alignment": "right",
-        "title": "MONIKA THE LABEL",
-        "text": "<p>Monika The Label is a love affair between Cali cool and East London grunge. Inspired by all the best parts of the '70s, we design sustainable clothes for wild-hearted women who want to make a change and feel pretty damn cool when they do it. We're all about slow fashion and environmentally friendly fabrics.</p>",
-        "button_label": "Shop Monika The Label",
-        "button_link": "shopify://collections/monika-the-label"
+        "cards_gap": 30,
+        "cards_gap_mobile": 16,
+        "card_height": 500,
+        "card_height_mobile": 460,
+        "card_border_thickness": 0,
+        "card_radius": 0,
+        "card_overlay": 0.4,
+        "card_content_align": "left",
+        "card_content_align_mobile": "left",
+        "card_content_vertical_align": "end",
+        "card_content_vertical_align_mobile": "end",
+        "sub_title_custom": false,
+        "sub_title_font": "josefin_sans_n4",
+        "sub_title_size": 16,
+        "sub_title_size_mobile": 16,
+        "sub_title_height": 130,
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 48,
+        "title_size_mobile": 48,
+        "title_height": 130,
+        "title_mt": 16,
+        "title_mt_mobile": 16,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 150,
+        "text_mt": 16,
+        "text_mt_mobile": 16,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 14,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_padding_horizontal": 24,
+        "button_padding_horizontal_mobile": 24,
+        "button_padding_vertical": 12,
+        "button_padding_vertical_mobile": 12,
+        "button_radius": 100,
+        "button_border_thickness": 1,
+        "button_mt": 16,
+        "button_mt_mobile": 16,
+        "button_style": "outline",
+        "sub_title_color": "#ffffff",
+        "title_color": "#ffffff",
+        "text_color": "#ffffff",
+        "card_border_color": "#121212",
+        "card_overlay_color": "#121212",
+        "button_color": "#ffffff",
+        "button_hover_color": "#121212",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#ffffff",
+        "button_border_color": "#2d2d2d",
+        "button_border_hover_color": "#ffffff",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
       }
     }
   },
@@ -893,8 +962,6 @@
     "ss_collection_14_JqP43P",
     "ss_collection_14_MNWLAq",
     "ss_collection_14_DeB3YQ",
-    "image_image_with_text_LF6xaF",
-    "image_image_with_text_nA4nhT",
-    "image_image_with_text_DaiGUn"
+    "ss_collection_14_DF8CVN"
   ]
 }
