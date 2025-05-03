@@ -601,54 +601,6 @@
         "lazy": true
       }
     },
-    "image_image_with_text_rd7Mx8": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2024-05-22_at_15.44.36.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "left",
-        "text_alignment": "left",
-        "title": "ALISDA",
-        "text": "<p>Handmade in Turkey, each knitwear piece is about turning imagination into a wearable cardigan to treasure forever. With nods to vintage and crochet</p>",
-        "button_label": "Shop Alisda",
-        "button_link": "shopify://collections/alisda"
-      }
-    },
-    "image_image_with_text_kFk6rk": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2024-06-10_at_14.12.49.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "right",
-        "text_alignment": "right",
-        "title": "ELEGANT FLAIR",
-        "text": "<p>All of our products are handcrafted by Samantha right here in Pittsburgh, PA, with so much love and care. The ability to create truly unique and meaningful pieces is something that has filled her with joy since she was 10 years old.</p>",
-        "button_label": "Shop Elegant Flair",
-        "button_link": "shopify://collections/elegant-flair"
-      }
-    },
-    "image_image_with_text_UmrEBR": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/IMG_0454.jpg",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "left",
-        "text_alignment": "left",
-        "title": "SABBI",
-        "text": "<p>Welcome to Sabbi, the brainchild of Jase and Ash, two Gold Coast locals who love fashion, fun and a cold margarita. Here at Sabbi we are big on energy so wanted to create a brand that balances resortwear alongside streetwear elements, tied together with a bright and positive energy.</p>",
-        "button_label": "Shop Sabbi",
-        "button_link": "shopify://collections/sabbi"
-      }
-    },
     "image_image_with_text_8HLQN6": {
       "type": "image--image-with-text",
       "name": "t:sections.image--image-with-text.presets.name",
@@ -801,9 +753,6 @@
     "ss_collection_14_TnHwNN",
     "ss_collection_14_6CkDQq",
     "ss_collection_14_JqP43P",
-    "image_image_with_text_rd7Mx8",
-    "image_image_with_text_kFk6rk",
-    "image_image_with_text_UmrEBR",
     "image_image_with_text_8HLQN6",
     "image_image_with_text_gKwq6q",
     "image_image_with_text_Tpirib",
