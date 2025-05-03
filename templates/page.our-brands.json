@@ -718,54 +718,6 @@
         "lazy": true
       }
     },
-    "image_image_with_text_8HLQN6": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot2024-04-25at12.33.33.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "right",
-        "text_alignment": "right",
-        "title": "SIKA",
-        "text": "<p>All Sika garments are designed in London and handmade in Ghana (West Africa) by our skilled garment production team.</p>",
-        "button_label": "Shop Sika",
-        "button_link": "shopify://collections/sika"
-      }
-    },
-    "image_image_with_text_gKwq6q": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2024-06-18_at_13.00.42.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "left",
-        "text_alignment": "left",
-        "title": "BY ALONA",
-        "text": "<p>By Alona is inspired by her Middle Eastern and European background, and seeks to translate the lost treasures of the Mediterranean into an effortless-yet-opulent aesthetic.</p>",
-        "button_label": "Shop By Alona",
-        "button_link": "shopify://collections/by-alona"
-      }
-    },
-    "image_image_with_text_Tpirib": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2024-06-18_at_13.12.28.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "right",
-        "text_alignment": "right",
-        "title": "POPSKI",
-        "text": "<p>We are passionate about creating timeless pieces that are luxurious whilst still being individual and stylish. Most importantly, we want you to feel gorgeous when you wear our clothes.</p>",
-        "button_label": "Shop Popski",
-        "button_link": "shopify://collections/popski"
-      }
-    },
     "image_image_with_text_qhJEyJ": {
       "type": "image--image-with-text",
       "name": "t:sections.image--image-with-text.presets.name",
@@ -871,9 +823,6 @@
     "ss_collection_14_6CkDQq",
     "ss_collection_14_JqP43P",
     "ss_collection_14_MNWLAq",
-    "image_image_with_text_8HLQN6",
-    "image_image_with_text_gKwq6q",
-    "image_image_with_text_Tpirib",
     "image_image_with_text_qhJEyJ",
     "image_image_with_text_6xRCcH",
     "image_image_with_text_rDitfM",
