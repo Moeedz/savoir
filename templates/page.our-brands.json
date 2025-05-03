@@ -56,8 +56,8 @@
           "type": "card",
           "settings": {
             "image": "shopify://shop_images/Screenshot_2025-02-19_at_18.00.30.png",
-            "sub_title": "Subtitle",
-            "title": "Dreamer Rebels",
+            "sub_title": "",
+            "title": "DREAMER REBELS",
             "text": "<p>Tell a story, explain a product detail, or describe a new promotion.</p>",
             "button": "Shop Dreamer Rebels",
             "button_url": "shopify://collections/dreamer-rebels"
