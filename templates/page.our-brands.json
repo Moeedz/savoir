@@ -484,54 +484,6 @@
         "lazy": true
       }
     },
-    "image_image_with_text_6WzBhF": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2024-07-01_at_21.27.30.webp",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "right",
-        "text_alignment": "right",
-        "title": "PUPPETS AND PUPPETS",
-        "text": "<p>Puppets and Puppets isa means to merge fine art and fashion simultaneously. We explore classic storytelling, non-traditional styling, and sculptural construction through clothing, as well as utility, comfort, and mindfulness.</p>",
-        "button_label": "Shop Puppets and Puppets",
-        "button_link": "shopify://collections/puppets-and-puppets"
-      }
-    },
-    "image_image_with_text_kK9x6e": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2024-05-22_at_15.49.19.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "left",
-        "text_alignment": "left",
-        "title": "UNSELFISH LOVER",
-        "text": "<p>The designs are all about colour mixing, beautiful cuts and unique timeless pieces, with that vintage looking touch. All the clothes are handmade in Brasil (Priscila's home country).</p>",
-        "button_label": "Shop Unselfish Lover",
-        "button_link": "shopify://collections/unselfish-lover"
-      }
-    },
-    "image_image_with_text_3nAkwq": {
-      "type": "image--image-with-text",
-      "name": "t:sections.image--image-with-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/Screenshot_2024-05-22_at_15.43.08.png",
-        "text_overlapping_image": false,
-        "section-width": "full",
-        "layout": "right",
-        "text_alignment": "right",
-        "title": "MICROWAVE",
-        "text": "<p>A contemporary fashion brand from Japan with a focus on mixing jersey and tulle to make each piece a statement. Exclusive to Savoir.</p>",
-        "button_label": "Shop Microwave",
-        "button_link": "shopify://collections/microwave"
-      }
-    },
     "image_image_with_text_rd7Mx8": {
       "type": "image--image-with-text",
       "name": "t:sections.image--image-with-text.presets.name",
@@ -731,9 +683,6 @@
     "ss_collection_14_wVAR86",
     "ss_collection_14_TnHwNN",
     "ss_collection_14_6CkDQq",
-    "image_image_with_text_6WzBhF",
-    "image_image_with_text_kK9x6e",
-    "image_image_with_text_3nAkwq",
     "image_image_with_text_rd7Mx8",
     "image_image_with_text_kFk6rk",
     "image_image_with_text_UmrEBR",
