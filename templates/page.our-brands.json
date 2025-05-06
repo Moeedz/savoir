@@ -170,6 +170,17 @@
             "button_url": "shopify://collections/acorn-and-will"
           }
         },
+        "card_QnfwWz": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-19_at_18.02.30.png",
+            "sub_title": "",
+            "title": "MARGAUX STUDIOS",
+            "text": "<p>Margaux Studios was founded in 2019 by British designer Abigayil Swann. Margaux is an ode to romance and modern heirlooms with sustainability at the very core. After training in Fashion Design at the prestigious Kingston University London and being featured in British Vogue as one of the top fashion graduates of 2011, Abi spent the next 8 years designing for a number of well-known high street companies but dreamt of starting her own sustainable jewellery and accessories brand.</p>",
+            "button": "Shop Magaux Studios",
+            "button_url": "shopify://collections/margaux-studios"
+          }
+        },
         "card_dYj87R": {
           "type": "card",
           "settings": {
@@ -185,6 +196,7 @@
       "block_order": [
         "card_bUYfjE",
         "card_jYELA4",
+        "card_QnfwWz",
         "card_dYj87R"
       ],
       "name": "SS - Collection #14",
@@ -276,6 +288,17 @@
             "button_url": "shopify://collections/madeline-marie"
           }
         },
+        "card_qJKB4i": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-04-08_at_13.24.11.png",
+            "sub_title": "",
+            "title": "MARIA LA ROSA",
+            "text": "<p>For three decades, the Maria La Rosa atelier has crafted bags, socks, and accessories employing artisanal techniques, honouring tradition through the use of ancient looms and meticulous manual craftsmanship.</p>",
+            "button": "Shop Maria La Rosa",
+            "button_url": "shopify://collections/maria-la-rosa"
+          }
+        },
         "card_kg9LDy": {
           "type": "card",
           "settings": {
@@ -301,6 +324,7 @@
       },
       "block_order": [
         "card_wyxKVU",
+        "card_qJKB4i",
         "card_kg9LDy",
         "card_eJDpge"
       ],
@@ -393,6 +417,17 @@
             "button_url": "shopify://collections/puppets-and-puppets"
           }
         },
+        "card_d9cngf": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9707.webp",
+            "sub_title": "",
+            "title": "JU JU",
+            "text": "<p>At JuJu Footwear we are very proud to call ourselves the creators of the original British Jelly Shoe.  We have been manufacturing iconic PVC sandals in our Northampton factory for over 30 years.</p>",
+            "button": "Shop JuJu",
+            "button_url": "shopify://collections/juju"
+          }
+        },
         "card_PdgXBR": {
           "type": "card",
           "settings": {
@@ -418,6 +453,7 @@
       },
       "block_order": [
         "card_dGJcbV",
+        "card_d9cngf",
         "card_PdgXBR",
         "card_PdGyhw"
       ],
@@ -510,6 +546,17 @@
             "button_url": "shopify://collections/alisda"
           }
         },
+        "card_tfyT4b": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/04_28_savoir_catalog-133.jpg",
+            "sub_title": "",
+            "title": "SAVOIR. CLUB",
+            "text": "<p>Our very own in house brand, designed by founder Jenny Sprei. Think bold, pink, fun stuff! </p>",
+            "button": "Shop Savoir.",
+            "button_url": "shopify://collections/savoir-merch"
+          }
+        },
         "card_LEwNLz": {
           "type": "card",
           "settings": {
@@ -535,6 +582,7 @@
       },
       "block_order": [
         "card_PAh8d9",
+        "card_tfyT4b",
         "card_LEwNLz",
         "card_hDQJhm"
       ],
@@ -627,6 +675,17 @@
             "button_url": "shopify://collections/sika"
           }
         },
+        "card_PxJWjX": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-19_at_18.01.44.png",
+            "sub_title": "",
+            "title": "SHICATO",
+            "text": "<p>Shicato produce hand-made bags, earrings and accessories by women in Ecuador. The bags are hand woven from toquilla straw or seeds and provide a livelihood for the women workers ensuring them a positive future and helping them to find purpose and support their family. They hope that by supporting local hand crafting will preserve cultures and they strongly believe that they can create a positive change. If everyone thinks differently about fashion and demands better, anything is possible.</p>",
+            "button": "Shop Shicato",
+            "button_url": "shopify://collections/shicato"
+          }
+        },
         "card_GqdqTB": {
           "type": "card",
           "settings": {
@@ -652,6 +711,7 @@
       },
       "block_order": [
         "card_xHWqzY",
+        "card_PxJWjX",
         "card_GqdqTB",
         "card_RcRH8V"
       ],
@@ -744,6 +804,17 @@
             "button_url": "shopify://collections/flabelus"
           }
         },
+        "card_Agwiwz": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9623.jpg",
+            "sub_title": "",
+            "title": "CAROLINE BOSMANS",
+            "text": "<p>Caroline Bosmans is aBelgian designer. She is known for her unique, graphic designs that blur the lines between boys' and girls' clothing, often incorporating graphic elements, humour, and bold colours.A mother of four, Bosmans' designs reflect her personal style and attention to detail.</p>",
+            "button": "Shop Caroline Bosmans",
+            "button_url": "shopify://collections/caroline-bosmans"
+          }
+        },
         "card_76EGnq": {
           "type": "card",
           "settings": {
@@ -769,6 +840,7 @@
       },
       "block_order": [
         "card_xB7T7E",
+        "card_Agwiwz",
         "card_76EGnq",
         "card_ezKRrb"
       ],
