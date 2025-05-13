@@ -29,13 +29,6 @@
             "footer_linklist": "help-support"
           }
         },
-        "newsletter_3yTwHb": {
-          "type": "newsletter",
-          "settings": {
-            "newsletter_title": "UNLOCK 10% OFF",
-            "footer_newsletter_description": "<p>Sign up to receive 10% off your first order and exclusive access to our best offers.</p>"
-          }
-        },
         "social": {
           "type": "social",
           "settings": {
@@ -46,7 +39,6 @@
       "block_order": [
         "image_Twx9B6",
         "menu_6Prbf8",
-        "newsletter_3yTwHb",
         "social"
       ],
       "custom_css": [
