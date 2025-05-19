@@ -43,8 +43,8 @@
         },
         "logo_image_UDdmUB": {
           "type": "logo_image",
-          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/9qkVlVok_400x400_e9b94d68-5856-44c6-83f3-be718717a6d3.jpg",
             "link": ""
           }
         }
@@ -55,30 +55,12 @@
         "logo_image_WXwm7r",
         "logo_image_UDdmUB"
       ],
+      "custom_css": [],
       "name": "t:sections.image--logo-list.presets.name",
       "settings": {
         "colors": "white",
         "width": 200,
-        "title": "As seen in"
-      }
-    },
-    "image_image_with_text_mHWt8c": {
-      "type": "image--image-with-text",
-      "custom_css": [
-        "a {background: black; color: white;}",
-        "img {object-fit: contain !important;}"
-      ],
-      "settings": {
-        "colors": "white",
-        "image": "shopify://shop_images/D82A2869-E11B-488E-B9CB-238550714CEC.jpg",
-        "text_overlapping_image": false,
-        "section-width": "content",
-        "layout": "left",
-        "text_alignment": "left",
-        "title": "The Telegraph",
-        "text": "",
-        "button_label": "Read the article",
-        "button_link": "https://www.telegraph.co.uk/fashion/style/blue-monday-dopamine-dressing/"
+        "title": ""
       }
     },
     "image_image_with_text_DrDQCY": {
@@ -100,6 +82,25 @@
         "button_link": "https://sheerluxe.com/fashion/whats-new-in-fashion-right-now-0"
       }
     },
+    "image_image_with_text_mHWt8c": {
+      "type": "image--image-with-text",
+      "custom_css": [
+        "a {background: black; color: white;}",
+        "img {object-fit: contain !important;}"
+      ],
+      "settings": {
+        "colors": "white",
+        "image": "shopify://shop_images/D82A2869-E11B-488E-B9CB-238550714CEC.jpg",
+        "text_overlapping_image": false,
+        "section-width": "content",
+        "layout": "left",
+        "text_alignment": "left",
+        "title": "The Telegraph",
+        "text": "",
+        "button_label": "Read the article",
+        "button_link": "https://www.telegraph.co.uk/fashion/style/blue-monday-dopamine-dressing/"
+      }
+    },
     "image_image_with_text_KzmHYR": {
       "type": "image--image-with-text",
       "custom_css": [
@@ -118,13 +119,29 @@
         "button_label": "Read the article",
         "button_link": "https://www.drapersonline.com/people/my-fashion-life/a-fashion-buyers-journey-from-selfridges-to-savoir"
       }
+    },
+    "image_image_with_text_d63tf3": {
+      "type": "image--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image": "shopify://shop_images/Screenshot_2025-05-19_at_10.29.41.png",
+        "text_overlapping_image": false,
+        "section-width": "content",
+        "layout": "left",
+        "text_alignment": "left",
+        "title": "I-M",
+        "text": "",
+        "button_label": "Read the article",
+        "button_link": "https://www.drapersonline.com/people/my-fashion-life/a-fashion-buyers-journey-from-selfridges-to-savoir"
+      }
     }
   },
   "order": [
     "main",
     "image_logo_list_H34A9J",
-    "image_image_with_text_mHWt8c",
     "image_image_with_text_DrDQCY",
-    "image_image_with_text_KzmHYR"
+    "image_image_with_text_mHWt8c",
+    "image_image_with_text_KzmHYR",
+    "image_image_with_text_d63tf3"
   ]
 }
