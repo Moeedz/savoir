@@ -121,7 +121,7 @@
         "text_zzeQr9": {
           "type": "text",
           "settings": {
-            "text": "CIAO LUCIA"
+            "text": "MICROWAVE"
           }
         }
       },
@@ -154,7 +154,7 @@
         "collection_t67RRM": {
           "type": "collection",
           "settings": {
-            "title": "New Arrivals",
+            "title": "Just In",
             "collection": "new-in",
             "product_limit": 8,
             "product_row_count": 4,
@@ -178,7 +178,7 @@
             "product_image_orientation": "portrait",
             "button_mt": 48,
             "button_text": "View All",
-            "button_link": "shopify://collections/jennys-picks"
+            "button_link": "shopify://collections/best-sellers"
           }
         },
         "collection_Vp8XhT": {
@@ -199,7 +199,7 @@
         "collection_a3MTKH": {
           "type": "collection",
           "settings": {
-            "title": "Jewels",
+            "title": "Dresses",
             "collection": "gorgeous-jewels",
             "product_limit": 8,
             "product_row_count": 4,
@@ -208,7 +208,7 @@
             "product_image_orientation": "portrait",
             "button_mt": 48,
             "button_text": "View All",
-            "button_link": "shopify://collections/gorgeous-jewels"
+            "button_link": "shopify://collections/dresses"
           }
         },
         "collection_YH7hUE": {
