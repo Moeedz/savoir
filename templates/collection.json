@@ -18,7 +18,7 @@
         "image_height": "40vw",
         "bg_image_overlay_opacity": 0,
         "parallax": true,
-        "title": "New and Gorgeous",
+        "title": "",
         "text": "",
         "colors": "dark",
         "textPosition": "center",
@@ -49,7 +49,6 @@
         "title_WWVXVx",
         "19eeeda1-0ae2-47d0-ab8d-2c7a043f0c67"
       ],
-      "disabled": true,
       "settings": {}
     },
     "product-grid": {
