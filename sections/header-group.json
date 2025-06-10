@@ -17,8 +17,8 @@
         "00-announcement": {
           "type": "announcement",
           "settings": {
-            "announcement_text": "FREE GIFT WITH PURCHASES OVER £150",
-            "announcement_bg_color": "#fdeef2",
+            "announcement_text": "FREE GIFT WITH PURCHASE",
+            "announcement_bg_color": "#f17d9b",
             "announcement_text_color": "#000000"
           }
         },
@@ -26,7 +26,7 @@
           "type": "announcement",
           "settings": {
             "announcement_text": "FASHION TO KNOW AND ENJOY",
-            "announcement_bg_color": "#fdeef2",
+            "announcement_bg_color": "#f17d9b",
             "announcement_text_color": "#000000"
           }
         },
@@ -34,7 +34,7 @@
           "type": "announcement",
           "settings": {
             "announcement_text": "SHOP THE BEST EDIT OF UNSEEN BRANDS",
-            "announcement_bg_color": "#fdeef2",
+            "announcement_bg_color": "#f17d9b",
             "announcement_text_color": "#000000"
           }
         },
@@ -42,7 +42,7 @@
           "type": "announcement",
           "settings": {
             "announcement_text": "FASHION TO KNOW AND ENJOY",
-            "announcement_bg_color": "#fdeef2",
+            "announcement_bg_color": "#f17d9b",
             "announcement_text_color": "#000000"
           }
         },
@@ -50,7 +50,7 @@
           "type": "announcement",
           "settings": {
             "announcement_text": "1-2 DAYS EXPRESS SHIPPING",
-            "announcement_bg_color": "#fdeef2",
+            "announcement_bg_color": "#f17d9b",
             "announcement_text_color": "#000000"
           }
         },
@@ -58,7 +58,7 @@
           "type": "announcement",
           "settings": {
             "announcement_text": "WELCOME TO OUR STORE WHERE EXPERT FASHION MEETS CURATION",
-            "announcement_bg_color": "#fdeef2",
+            "announcement_bg_color": "#f17d9b",
             "announcement_text_color": "#000000"
           }
         },
@@ -66,15 +66,15 @@
           "type": "announcement",
           "settings": {
             "announcement_text": "EACH ITEM HAS BEEN EXPERTLY HANDPICKED",
-            "announcement_bg_color": "#fdeef2",
+            "announcement_bg_color": "#f17d9b",
             "announcement_text_color": "#262428"
           }
         },
         "announcement_Dq9iHH": {
           "type": "announcement",
           "settings": {
-            "announcement_text": "Klarna now available",
-            "announcement_bg_color": "#fdeef2",
+            "announcement_text": "SHOP WITH KLARNA",
+            "announcement_bg_color": "#f17d9b",
             "announcement_text_color": "#262428"
           }
         }
