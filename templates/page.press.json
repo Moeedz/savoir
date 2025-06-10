@@ -17,35 +17,6 @@
         "page_width": "full-width"
       }
     },
-    "text_rich_text_qYb9xx": {
-      "type": "text--rich-text",
-      "blocks": {
-        "heading_yTf8WA": {
-          "type": "heading",
-          "settings": {
-            "heading": "We are in the press"
-          }
-        },
-        "richtext_MrQH7K": {
-          "type": "richtext",
-          "settings": {
-            "text": "<p>Read all about it!</p>",
-            "text_size": 14
-          }
-        }
-      },
-      "block_order": [
-        "heading_yTf8WA",
-        "richtext_MrQH7K"
-      ],
-      "name": "t:sections.text--rich-text.presets.name",
-      "settings": {
-        "colors": "white",
-        "section_width": "narrow",
-        "text_alignment_desktop": "center",
-        "text_alignment_mobile": "center"
-      }
-    },
     "image_logo_list_H34A9J": {
       "type": "image--logo-list",
       "blocks": {
@@ -90,6 +61,35 @@
         "colors": "white",
         "width": 200,
         "title": ""
+      }
+    },
+    "text_rich_text_qYb9xx": {
+      "type": "text--rich-text",
+      "blocks": {
+        "heading_yTf8WA": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are in the press"
+          }
+        },
+        "richtext_MrQH7K": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Read all about it!</p>",
+            "text_size": 14
+          }
+        }
+      },
+      "block_order": [
+        "heading_yTf8WA",
+        "richtext_MrQH7K"
+      ],
+      "name": "t:sections.text--rich-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "center"
       }
     },
     "image_image_with_text_DrDQCY": {
@@ -167,8 +167,8 @@
   },
   "order": [
     "main",
-    "text_rich_text_qYb9xx",
     "image_logo_list_H34A9J",
+    "text_rich_text_qYb9xx",
     "image_image_with_text_DrDQCY",
     "image_image_with_text_mHWt8c",
     "image_image_with_text_KzmHYR",
