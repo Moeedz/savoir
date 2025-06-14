@@ -14,7 +14,7 @@
       "type": "image--image-with-text-overlay",
       "name": "t:sections.image--image-with-text-overlay.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Savoir_revelrylodge-240.jpg",
+        "image": "{{ collection.metafields.custom.custom_collection_banner.value }}",
         "image_height": "40vw",
         "bg_image_overlay_opacity": 0,
         "parallax": true,
