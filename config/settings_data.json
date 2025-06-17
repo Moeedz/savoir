@@ -64,6 +64,7 @@
     "sm_facebook_link": "https://www.facebook.com/profile.php?id=61559908960024",
     "sm_instagram_link": "https://www.instagram.com/we_are_savoir/",
     "sm_tiktok_link": "https://www.tiktok.com/@we_are_savoir?_t=8mVM25z0K0X&_r=1",
+    "share_x": false,
     "enable_breadcrumbs": false,
     "popup--enable": false,
     "pop-up-text-header-text": "Subscribe to our newsletter",

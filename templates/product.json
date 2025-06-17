@@ -83,6 +83,10 @@
             "margin_bottom": 20
           }
         },
+        "se_wishlist_engine_product_page_A8Y6ym": {
+          "type": "shopify://apps/se-wishlist-engine/blocks/Product-Page/8f7c0857-8e71-463d-a168-8e133094753b",
+          "settings": {}
+        },
         "fbfe241f-1b44-41cd-ae22-e866bdad9aaf": {
           "type": "cross-sells",
           "settings": {
@@ -93,12 +97,6 @@
             "collapsible_tab": false,
             "icon": "none",
             "open_close_icon": "plus_minus",
-            "margin_bottom": 20
-          }
-        },
-        "4fdb087c-4728-4785-b270-a71a092b7898": {
-          "type": "social_sharing",
-          "settings": {
             "margin_bottom": 20
           }
         }
@@ -113,8 +111,8 @@
         "options",
         "quantity",
         "buy_buttons",
-        "fbfe241f-1b44-41cd-ae22-e866bdad9aaf",
-        "4fdb087c-4728-4785-b270-a71a092b7898"
+        "se_wishlist_engine_product_page_A8Y6ym",
+        "fbfe241f-1b44-41cd-ae22-e866bdad9aaf"
       ],
       "custom_css": [
         "div#shopify-block-ATjhXbjhmSUY3bS92T__klaviyo_reviews_average_rating_kHHrny {margin-bottom: 0 !important;}",
@@ -187,12 +185,19 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1750149233f7024caa": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "product-form",
     "template_product_recommendations_GxgAUN",
     "product-description",
-    "17452506401d9055ca"
+    "17452506401d9055ca",
+    "1750149233f7024caa"
   ]
 }
