@@ -12,6 +12,9 @@
   "sections": {
     "image_image_with_text_gnykKJ": {
       "type": "image--image-with-text",
+      "custom_css": [
+        "[data-wetheme-section-type=\"image--image-with-text\"] {padding: 0 !important;}"
+      ],
       "name": "t:sections.image--image-with-text.presets.name",
       "settings": {
         "colors": "white",
