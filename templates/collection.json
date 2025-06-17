@@ -10,8 +10,25 @@
 {
   "wrapper": "div.collection-wrapper.wrapper",
   "sections": {
+    "image_image_with_text_gnykKJ": {
+      "type": "image--image-with-text",
+      "name": "t:sections.image--image-with-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "image": "{{ collection.image }}",
+        "text_overlapping_image": false,
+        "section-width": "content",
+        "layout": "left",
+        "text_alignment": "left",
+        "title": "{{ collection.title }}",
+        "text": "{{ collection.description }}",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
     "image_image_with_text_overlay_nr4KK3": {
       "type": "image--image-with-text-overlay",
+      "disabled": true,
       "name": "t:sections.image--image-with-text-overlay.presets.name",
       "settings": {
         "image": "shopify://shop_images/Savoir_revelrylodge-240.jpg",
@@ -49,6 +66,7 @@
         "title_WWVXVx",
         "19eeeda1-0ae2-47d0-ab8d-2c7a043f0c67"
       ],
+      "disabled": true,
       "settings": {}
     },
     "product-grid": {
@@ -101,6 +119,7 @@
     }
   },
   "order": [
+    "image_image_with_text_gnykKJ",
     "image_image_with_text_overlay_nr4KK3",
     "collection-header-default",
     "product-grid"

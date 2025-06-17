@@ -101,11 +101,6 @@
         "type": "shopify://apps/salepify/blocks/advanced-free-gift/f616e94d-36ae-45cb-9d98-57804196c7a7",
         "disabled": false,
         "settings": {}
-      },
-      "4090771392943522038": {
-        "type": "shopify://apps/toastibar/blocks/app-embed/28a475c6-f06d-46d4-b40a-df8d869255ef",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
