@@ -15,15 +15,6 @@
     },
     "1750864152ab7273f1": {
       "type": "apps",
-      "blocks": {
-        "parcelify_rate_calculator_v2_etTGTe": {
-          "type": "shopify://apps/parcelify/blocks/rate_calculator_v2/7638fb4b-ef12-4af8-828a-5d47b2e8a897",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "parcelify_rate_calculator_v2_etTGTe"
-      ],
       "settings": {
         "include_margins": true
       }
