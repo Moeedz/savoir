@@ -348,9 +348,8 @@ const newRender = async () => {
 
             if (hasRuleMetCondition) {
                 if ((!isGiftsOnlyLayout && sessionState.canShowDetailedListPopup) || isGiftsOnlyLayout) {
-                    if (window.tlAdvancedFreeGift.displaySettings?.animation.show_confetti) {
+                    
                         window.tlAdvancedFreeGift.showConfetti();
-                    }
                     window.tlAdvancedFreeGift.openGiftModal();
                     window.tlAdvancedFreeGift.isAutoOpenPopup = true;
                 }
