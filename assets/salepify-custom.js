@@ -640,7 +640,7 @@ const newReRender = async () => {
                 const addCartReq = await window.tlAdvancedFreeGift.handleAddGift(listRuleNeedToAddGift);
                 if(addCartReq.status === 200){
                    
-                        window.tlAdvancedFreeGift.showConfetti();
+                    window.tlAdvancedFreeGift.showConfetti();
                     window.tlAdvancedFreeGift.showIconPopUpMessage("You’ve received a gift. Please reload to view the changes.", availableToClaim.length);
                     if(needToReload || window.tlAdvancedFreeGift.isCallXHR) {
                         if(!window.TLCustomEventGiftsAdvanced){
@@ -681,7 +681,7 @@ const newReRender = async () => {
         if(hasRuleMetCondition){
             if ((!isGiftsOnlyLayout && sessionState.canShowDetailedListPopup) || isGiftsOnlyLayout) {
                 if (!window.tlAdvancedFreeGift.isAutoOpenPopup || (isGiftsOnlyLayout && window.tlAdvancedFreeGift.isAutoOpenPopup)) {
-                        window.tlAdvancedFreeGift.showConfetti();
+                    window.tlAdvancedFreeGift.showConfetti();
                     
                     window.tlAdvancedFreeGift.openGiftModal();
                     window.tlAdvancedFreeGift.isAutoOpenPopup = true;
