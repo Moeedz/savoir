@@ -1,7 +1,7 @@
 Object.defineProperty(window, "tlAdvancedFreeGift", {
   set(value) {
     if (value) {
-      console.log(value)
+          value.displaySettings.animation.show_confetti = true
     }
     Object.defineProperty(window, "tlAdvancedFreeGift", {
       value,
