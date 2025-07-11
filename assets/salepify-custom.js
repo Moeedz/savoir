@@ -1,9 +1,7 @@
 
 Object.defineProperty(window, "tlAdvancedFreeGift", {
   set(value) {
-    if (value) {
-         console.log(value)
-    }
+    console.log(value)
     Object.defineProperty(window, "tlAdvancedFreeGift", {
       value,
       writable: true,
