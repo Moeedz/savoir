@@ -695,7 +695,7 @@ const newReRender = async () => {
 Object.defineProperty(window, "tlAdvancedFreeGift", {
   set(value) {
     if (value) {
-        // value.render = newRender;
+        value.render = newRender;
         // value.reRender = newReRender;
     }
     Object.defineProperty(window, "tlAdvancedFreeGift", {
