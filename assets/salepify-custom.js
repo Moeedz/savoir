@@ -696,7 +696,7 @@ Object.defineProperty(window, "tlAdvancedFreeGift", {
   set(value) {
     if (value) {
         // value.render = ;
-        // value.reRender = newReRender;
+        value.reRender = newReRender;
     }
     Object.defineProperty(window, "tlAdvancedFreeGift", {
       value,
