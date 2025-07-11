@@ -1,14 +1,14 @@
 
-// Object.defineProperty(window, "tlAdvancedFreeGift", {
-//   set(value) {
-//     if (value) {
-//          console.log(value.displaySettings)
-//     }
-//     Object.defineProperty(window, "tlAdvancedFreeGift", {
-//       value,
-//       writable: true,
-//       configurable: true
-//     });
-//   },
-//   configurable: true
-// });
+Object.defineProperty(window, "tlAdvancedFreeGift", {
+  set(value) {
+    if (value) {
+         console.log(value)
+    }
+    Object.defineProperty(window, "tlAdvancedFreeGift", {
+      value,
+      writable: true,
+      configurable: true
+    });
+  },
+  configurable: true
+});
