@@ -200,7 +200,7 @@
           "type": "collection",
           "settings": {
             "title": "Dresses",
-            "collection": "gorgeous-jewels",
+            "collection": "dresses",
             "product_limit": 8,
             "product_row_count": 4,
             "mobile_product_row_count": 1,
