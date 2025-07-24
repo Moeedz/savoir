@@ -58,11 +58,11 @@
             "first_button_link": "",
             "second_button_label": "",
             "second_button_link": "",
-            "image": "shopify://shop_images/Savoir_revelrylodge-126.jpg",
+            "image": "shopify://shop_images/Savoir_revelrylodge-228.jpg",
             "desktop-caption-heading-size": 80,
             "desktop-caption-body-text-size": 24,
             "text_position": "center_left",
-            "mobile_image": "shopify://shop_images/Savoir_revelrylodge-126.jpg",
+            "mobile_image": "shopify://shop_images/Savoir_revelrylodge-228.jpg",
             "mobile-caption-heading-size": 36,
             "mobile-caption-body-text-size": 16,
             "mobile_text_position": "center_left",
@@ -595,7 +595,7 @@
         "image_g4LjiQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Savoir_revelrylodge-226.jpg",
+            "image": "shopify://shop_images/IMG_1141.png",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
