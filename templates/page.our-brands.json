@@ -1047,6 +1047,131 @@
         "section_radius": 0,
         "lazy": true
       }
+    },
+    "ss_collection_14_9qN6Xq": {
+      "type": "ss-collection-14",
+      "blocks": {
+        "card_6cRW7E": {
+          "type": "card",
+          "settings": {
+            "sub_title": "Subtitle",
+            "title": "Title",
+            "text": "<p>Tell a story, explain a product detail, or describe a new promotion.</p>",
+            "button": "Shop now",
+            "button_url": ""
+          }
+        },
+        "card_PgnNWM": {
+          "type": "card",
+          "settings": {
+            "sub_title": "Subtitle",
+            "title": "Title",
+            "text": "<p>Tell a story, explain a product detail, or describe a new promotion.</p>",
+            "button": "Shop now",
+            "button_url": ""
+          }
+        },
+        "card_mkAWN3": {
+          "type": "card",
+          "settings": {
+            "sub_title": "Subtitle",
+            "title": "Title",
+            "text": "<p>Tell a story, explain a product detail, or describe a new promotion.</p>",
+            "button": "Shop now",
+            "button_url": ""
+          }
+        },
+        "card_Pa3Ja9": {
+          "type": "card",
+          "settings": {
+            "sub_title": "Subtitle",
+            "title": "Title",
+            "text": "<p>Tell a story, explain a product detail, or describe a new promotion.</p>",
+            "button": "Shop now",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "card_6cRW7E",
+        "card_PgnNWM",
+        "card_mkAWN3",
+        "card_Pa3Ja9"
+      ],
+      "name": "SS - Collection #14",
+      "settings": {
+        "cards_gap": 30,
+        "cards_gap_mobile": 16,
+        "card_height": 500,
+        "card_height_mobile": 460,
+        "card_border_thickness": 0,
+        "card_radius": 0,
+        "card_overlay": 0.2,
+        "card_content_align": "left",
+        "card_content_align_mobile": "left",
+        "card_content_vertical_align": "end",
+        "card_content_vertical_align_mobile": "end",
+        "sub_title_custom": false,
+        "sub_title_font": "josefin_sans_n4",
+        "sub_title_size": 16,
+        "sub_title_size_mobile": 16,
+        "sub_title_height": 130,
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 48,
+        "title_size_mobile": 48,
+        "title_height": 130,
+        "title_mt": 16,
+        "title_mt_mobile": 16,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 150,
+        "text_mt": 16,
+        "text_mt_mobile": 16,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 14,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_padding_horizontal": 24,
+        "button_padding_horizontal_mobile": 24,
+        "button_padding_vertical": 12,
+        "button_padding_vertical_mobile": 12,
+        "button_radius": 100,
+        "button_border_thickness": 1,
+        "button_mt": 16,
+        "button_mt_mobile": 16,
+        "button_style": "outline",
+        "sub_title_color": "#FFFFFF",
+        "title_color": "#FFFFFF",
+        "text_color": "#FFFFFF",
+        "card_border_color": "#121212",
+        "card_overlay_color": "#121212",
+        "button_color": "#FFFFFF",
+        "button_hover_color": "#121212",
+        "button_bg_color": "transparent",
+        "button_bg_hover_color": "#FFFFFF",
+        "button_border_color": "#FFFFFF",
+        "button_border_hover_color": "#FFFFFF",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
@@ -1058,6 +1183,7 @@
     "ss_collection_14_JqP43P",
     "ss_collection_14_MNWLAq",
     "ss_collection_14_DeB3YQ",
-    "ss_collection_14_DF8CVN"
+    "ss_collection_14_DF8CVN",
+    "ss_collection_14_9qN6Xq"
   ]
 }
