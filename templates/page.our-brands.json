@@ -1048,55 +1048,62 @@
         "lazy": true
       }
     },
-    "ss_collection_14_9qN6Xq": {
+    "ss_collection_14_MK9BQf": {
       "type": "ss-collection-14",
       "blocks": {
-        "card_6cRW7E": {
+        "card_DELWBc": {
           "type": "card",
           "settings": {
-            "sub_title": "Subtitle",
-            "title": "Title",
-            "text": "<p>Tell a story, explain a product detail, or describe a new promotion.</p>",
-            "button": "Shop now",
-            "button_url": ""
+            "image": "shopify://shop_images/P6270914.webp",
+            "sub_title": "",
+            "title": "BUNNY SHAPIRO",
+            "text": "<p>After a decade of working in NYC's fashion industry, Bunny Shapiro traded in her East Village apartment for a chiller life at the beach.  In November 2015, Bunny moved to Puerto Vallarta Mexico to teach English, but she stumbled upon a bead supplier, and started making bracelets instead.  Friends and family started buying up Bunny’s collection and suddenly her namesake brand was born.</p>",
+            "button": "Shop Bunny Shapiro",
+            "button_url": "shopify://collections/bunny-shapiro"
           }
         },
-        "card_PgnNWM": {
+        "card_gQ9peF": {
           "type": "card",
+          "disabled": true,
           "settings": {
-            "sub_title": "Subtitle",
-            "title": "Title",
-            "text": "<p>Tell a story, explain a product detail, or describe a new promotion.</p>",
-            "button": "Shop now",
-            "button_url": ""
+            "image": "shopify://shop_images/thank_you_card_2.webp",
+            "sub_title": "",
+            "title": "BÜBISH",
+            "text": "<p>It's a tale of best friends and sisters, Alex and Georgie who were born with a shared passion for creativity and timeless style. As girls they would create bold outfits with colourful pieces they sourced from their grandmother's wardrobe and vintage stores.</p>",
+            "button": "",
+            "button_url": "shopify://collections/bubsih"
           }
         },
-        "card_mkAWN3": {
+        "card_hUcyY9": {
           "type": "card",
+          "disabled": true,
           "settings": {
-            "sub_title": "Subtitle",
-            "title": "Title",
-            "text": "<p>Tell a story, explain a product detail, or describe a new promotion.</p>",
-            "button": "Shop now",
-            "button_url": ""
+            "image": "shopify://shop_images/Screenshot_2025-02-19_at_14.20.38.webp",
+            "sub_title": "",
+            "title": "PRIMECUT",
+            "text": "<p>Primecut bags are handcrafted in Portland, Oregon workshop. Each bag is carefully constructed, taking into account the unique properties of the materials used. Founded in 2013, deep in the confines of her basement, Lizzie began experimenting with leather bags. </p>",
+            "button": "Shop Primecut",
+            "button_url": "shopify://collections/primecut"
           }
         },
-        "card_Pa3Ja9": {
+        "card_jhjPCT": {
           "type": "card",
+          "disabled": true,
           "settings": {
-            "sub_title": "Subtitle",
-            "title": "Title",
-            "text": "<p>Tell a story, explain a product detail, or describe a new promotion.</p>",
-            "button": "Shop now",
-            "button_url": ""
+            "image": "shopify://shop_images/Screenshot_2025-02-19_at_17.50.26.webp",
+            "sub_title": "",
+            "title": "MONIKA THE LABEL",
+            "text": "<p>Monika The Label is a love affair between Cali cool and East London grunge. Inspired by all the best parts of the '70s, we design sustainable clothes for wild-hearted women who want to make a change and feel pretty damn cool when they do it. We're all about slow fashion and environmentally friendly fabrics.</p>",
+            "button": "Shop Monika The Label",
+            "button_url": "shopify://collections/monika-the-label"
           }
         }
       },
       "block_order": [
-        "card_6cRW7E",
-        "card_PgnNWM",
-        "card_mkAWN3",
-        "card_Pa3Ja9"
+        "card_DELWBc",
+        "card_gQ9peF",
+        "card_hUcyY9",
+        "card_jhjPCT"
       ],
       "name": "SS - Collection #14",
       "settings": {
@@ -1106,7 +1113,7 @@
         "card_height_mobile": 460,
         "card_border_thickness": 0,
         "card_radius": 0,
-        "card_overlay": 0.2,
+        "card_overlay": 0.4,
         "card_content_align": "left",
         "card_content_align_mobile": "left",
         "card_content_vertical_align": "end",
@@ -1144,18 +1151,18 @@
         "button_mt": 16,
         "button_mt_mobile": 16,
         "button_style": "outline",
-        "sub_title_color": "#FFFFFF",
-        "title_color": "#FFFFFF",
-        "text_color": "#FFFFFF",
+        "sub_title_color": "#ffffff",
+        "title_color": "#ffffff",
+        "text_color": "#ffffff",
         "card_border_color": "#121212",
         "card_overlay_color": "#121212",
-        "button_color": "#FFFFFF",
+        "button_color": "#ffffff",
         "button_hover_color": "#121212",
-        "button_bg_color": "transparent",
-        "button_bg_hover_color": "#FFFFFF",
-        "button_border_color": "#FFFFFF",
-        "button_border_hover_color": "#FFFFFF",
-        "background_color": "#FFFFFF",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#ffffff",
+        "button_border_color": "#2d2d2d",
+        "button_border_hover_color": "#ffffff",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#121212",
         "margin_top": 0,
@@ -1166,7 +1173,7 @@
         "padding_bottom": 36,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
-        "full_width": false,
+        "full_width": true,
         "content_width": 1200,
         "border_thickness": 0,
         "section_radius": 0,
@@ -1184,6 +1191,6 @@
     "ss_collection_14_MNWLAq",
     "ss_collection_14_DeB3YQ",
     "ss_collection_14_DF8CVN",
-    "ss_collection_14_9qN6Xq"
+    "ss_collection_14_MK9BQf"
   ]
 }
