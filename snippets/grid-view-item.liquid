@@ -99,6 +99,13 @@
     <span class="badge-more-colours">Low Stock</span>
   {%- endif -%}
           
+  {%- if product.tags contains 'exclusive' -%}
+    <span class="badge-more-colours">Exclusive</span>
+  {%- endif -%}
+  
+  {%- if product.tags contains 'new-launch' -%}
+    <span class="badge-more-colours">New Launch</span>
+  {%- endif -%}
        
           
         {% endif %}
