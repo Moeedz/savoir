@@ -9,6 +9,29 @@
  */
 {
   "sections": {
+    "image_image_with_text_overlay_HUp7Rq": {
+      "type": "image--image-with-text-overlay",
+      "name": "t:sections.image--image-with-text-overlay.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2025-09-03_at_16.47.24.png",
+        "image_height": "original",
+        "bg_image_overlay_opacity": 0,
+        "parallax": true,
+        "title": "Birthday Photo Shoot",
+        "text": "Welcome to Labubu Land",
+        "colors": "dark",
+        "textPosition": "center",
+        "textAlignment": "center",
+        "heading--text-size": 26,
+        "text--text-size": 18,
+        "link": "",
+        "button_label": "",
+        "button-text": "#ffffff",
+        "button-background": "#262428",
+        "hover-button-text": "#ffffff",
+        "hover-button-background": "#494949"
+      }
+    },
     "main": {
       "type": "template--page",
       "settings": {
@@ -18,6 +41,7 @@
     },
     "video_video_JiiUtT": {
       "type": "video--video",
+      "disabled": true,
       "settings": {
         "colors": "white",
         "title": "",
@@ -30,10 +54,131 @@
         "mute": false,
         "video_overlay_opacity": 50
       }
+    },
+    "image_gallery_M4dd8W": {
+      "type": "image--gallery",
+      "blocks": {
+        "image_yBRRM6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5002_2.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "image_JjM7Ma": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5027_2.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "image_e8NmQT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5012_2.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "image_yBRRM6",
+        "image_JjM7Ma",
+        "image_e8NmQT"
+      ],
+      "name": "t:sections.image--gallery.presets.name",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": false,
+        "section-width": "full",
+        "content-position": "hide"
+      }
+    },
+    "image_gallery_x7ra6x": {
+      "type": "image--gallery",
+      "blocks": {
+        "image_XUz3pm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5090_2.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "image_DG8bjb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5139_2.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "image_h6wU8Y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5099_2.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "image_XUz3pm",
+        "image_DG8bjb",
+        "image_h6wU8Y"
+      ],
+      "name": "t:sections.image--gallery.presets.name",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": false,
+        "section-width": "full",
+        "content-position": "hide"
+      }
     }
   },
   "order": [
+    "image_image_with_text_overlay_HUp7Rq",
     "main",
-    "video_video_JiiUtT"
+    "video_video_JiiUtT",
+    "image_gallery_M4dd8W",
+    "image_gallery_x7ra6x"
   ]
 }
