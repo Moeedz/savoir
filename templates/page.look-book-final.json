@@ -1,0 +1,40 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+        "page_title_enabled": true,
+        "page_width": "full-width"
+      }
+    },
+    "video_video_JiiUtT": {
+      "type": "video--video",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "width_classes": 75,
+        "video": "shopify://files/videos/ScreenRecording_04-15-2025 23-24-38_1.mov",
+        "url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "autoplay": false,
+        "loop": true,
+        "mute": false,
+        "video_overlay_opacity": 50
+      }
+    }
+  },
+  "order": [
+    "main",
+    "video_video_JiiUtT"
+  ]
+}
