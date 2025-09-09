@@ -79,8 +79,8 @@
         "image_UEbjkk"
       ],
       "settings": {
-        "desktop_height": "original",
-        "mobile_height": "original",
+        "desktop_height": "medium",
+        "mobile_height": "small",
         "slide_navigation_style": "bars",
         "slide_transition_delay": 7
       }
