@@ -1064,12 +1064,11 @@
         },
         "card_gQ9peF": {
           "type": "card",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/thank_you_card_2.webp",
+            "image": "shopify://shop_images/Screenshot_2025-09-09_at_11.13.02.png",
             "sub_title": "",
-            "title": "BÜBISH",
-            "text": "<p>It's a tale of best friends and sisters, Alex and Georgie who were born with a shared passion for creativity and timeless style. As girls they would create bold outfits with colourful pieces they sourced from their grandmother's wardrobe and vintage stores.</p>",
+            "title": "LUCIE VACLAV",
+            "text": "<p>More than a fashion label, Lucie Vaclav offers a sensorial and emotional experience—a narrative of elegance, individuality, and innovation woven into every stitch. Her collections empower women to embrace their complexity and confidence through a wardrobe that is as versatile and nuanced as they are. By fusing traditional techniques with contemporary vision, Vaclav is shaping a new chapter in luxury fashion—where timeless beauty and modern sensibility meet in effortless harmony.</p>",
             "button": "",
             "button_url": "shopify://collections/bubsih"
           }
