@@ -595,7 +595,7 @@
         "image_g4LjiQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_1141.png",
+            "image": "shopify://shop_images/Screenshot_2025-10-10_at_13.25.29.png",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -603,8 +603,8 @@
             "heading_font": "assistant_n4",
             "heading_size": 32,
             "heading_height": 100,
-            "link": "Sabbi",
-            "link_url": "shopify://collections/sabbi",
+            "link": "The Jacksons",
+            "link_url": "shopify://collections/the-jacksons",
             "link_custom": false,
             "link_font": "assistant_n4",
             "link_size": 22,
@@ -626,7 +626,7 @@
         "image_XCFrFW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Savoir_revelrylodge-270.jpg",
+            "image": "shopify://shop_images/502725888_18514158493042743_5214502224728240087_n.jpg",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -634,8 +634,8 @@
             "heading_font": "assistant_n4",
             "heading_size": 32,
             "heading_height": 100,
-            "link": "New In Bags",
-            "link_url": "shopify://collections/best-of-the-bags",
+            "link": "Metallic Socks",
+            "link_url": "shopify://collections/maria-la-rosa",
             "link_custom": false,
             "link_font": "assistant_n4",
             "link_size": 22,
@@ -688,7 +688,7 @@
         "image_VRRBtV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Savoir_revelrylodge-137.jpg",
+            "image": "shopify://shop_images/P6270914.webp",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -696,8 +696,8 @@
             "heading_font": "assistant_n4",
             "heading_size": 32,
             "heading_height": 100,
-            "link": "Dress Edit",
-            "link_url": "shopify://collections/dresses",
+            "link": "Jewellery",
+            "link_url": "shopify://collections/gorgeous-jewels",
             "link_custom": false,
             "link_font": "assistant_n4",
             "link_size": 22,
@@ -719,7 +719,7 @@
         "image_tMMJjR": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Savoir_revelrylodge-207_f5dfd08a-989a-4080-81a1-0ceeae981cc8.jpg",
+            "image": "shopify://shop_images/04_28_savoir_catalog-146.jpg",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -727,8 +727,8 @@
             "heading_font": "assistant_n4",
             "heading_size": 32,
             "heading_height": 100,
-            "link": "Queens of Archive",
-            "link_url": "shopify://collections/queens-of-archive",
+            "link": "Jackets",
+            "link_url": "shopify://collections/jackets-to-wear-now",
             "link_custom": false,
             "link_font": "assistant_n4",
             "link_size": 22,
@@ -812,7 +812,7 @@
         "image_TCh4wC": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Savoir_revelrylodge-58_f084a66a-faa4-4f83-89a9-07a3072546af.jpg",
+            "image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-561.jpg",
             "image_overlay": 0,
             "image_radius": 0,
             "heading": "",
@@ -820,8 +820,8 @@
             "heading_font": "assistant_n4",
             "heading_size": 32,
             "heading_height": 100,
-            "link": "Jelly Shoes",
-            "link_url": "shopify://collections/juju",
+            "link": "Knitwear",
+            "link_url": "shopify://collections/knitwear",
             "link_custom": false,
             "link_font": "assistant_n4",
             "link_size": 22,
