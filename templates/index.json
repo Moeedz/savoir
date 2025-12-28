@@ -85,6 +85,35 @@
         "slide_transition_delay": 7
       }
     },
+    "text_rich_text_3anRfA": {
+      "type": "text--rich-text",
+      "blocks": {
+        "heading_W7tPGd": {
+          "type": "heading",
+          "settings": {
+            "heading": "20% OFF SITEWIDE FOR A LIMITED TIME ONLY. USE CODE \"DECEMBER\" AT CHECKOUT"
+          }
+        },
+        "richtext_JNFRDp": {
+          "type": "richtext",
+          "settings": {
+            "text": "",
+            "text_size": 14
+          }
+        }
+      },
+      "block_order": [
+        "heading_W7tPGd",
+        "richtext_JNFRDp"
+      ],
+      "name": "t:sections.text--rich-text.presets.name",
+      "settings": {
+        "colors": "white",
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "center"
+      }
+    },
     "ss_scrolling_announcement_bar_E7fcJa": {
       "type": "ss-scrolling-announcement-bar",
       "blocks": {
@@ -1344,6 +1373,7 @@
     "2702beb3-827b-44e4-991e-9b79a8ccc045",
     "text_rich_text_gRWyRB",
     "image_slideshow_8ijpMy",
+    "text_rich_text_3anRfA",
     "ss_scrolling_announcement_bar_E7fcJa",
     "ss_featured_collection_tabs_jqxz3V",
     "image_image_with_text_HBUq4a",
