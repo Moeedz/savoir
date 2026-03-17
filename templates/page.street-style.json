@@ -20,8 +20,32 @@
     "image_slideshow_xUeGQ3": {
       "type": "image--slideshow",
       "blocks": {
+        "image_6Tn7Xy": {
+          "type": "image",
+          "settings": {
+            "title": "Street Style Shoot",
+            "text": "By Savoir.",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify://collections/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "desktop-caption-heading-size": 80,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#242424",
+            "button-text": "#ffffff",
+            "button-background": "#242424",
+            "hover-button-background": "#9f9f9f"
+          }
+        },
         "image_DcMdMp": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "Campaign Shoot I",
             "text": "A pink abandoned house...",
@@ -46,6 +70,7 @@
         }
       },
       "block_order": [
+        "image_6Tn7Xy",
         "image_DcMdMp"
       ],
       "custom_css": [],
