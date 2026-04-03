@@ -107,8 +107,8 @@
         "type": "shopify://apps/smartsize/blocks/app-embed/465a43e0-6a1a-4d30-b82e-fe6118568705",
         "disabled": false,
         "settings": {
-          "button_horizontal_aligment": "left",
-          "button_horizontal_aligment_mobile": "left",
+          "button_horizontal_aligment": "center",
+          "button_horizontal_aligment_mobile": "center",
           "smartsize_button_label": "--",
           "smartsize_conversion_label_CM": "CM",
           "smartsize_conversion_label_IN": "INCHES",
