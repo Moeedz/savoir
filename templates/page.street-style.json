@@ -27,14 +27,16 @@
             "text": "By Savoir.",
             "first_button_label": "Shop now",
             "first_button_link": "shopify://collections/all",
-            "second_button_label": "Learn more",
+            "second_button_label": "",
             "second_button_link": "",
+            "image": "shopify://shop_images/savoir_bricklane-5142.jpg",
             "desktop-caption-heading-size": 80,
             "desktop-caption-body-text-size": 24,
-            "text_position": "center_left",
-            "mobile-caption-heading-size": 36,
+            "text_position": "bottom_right",
+            "mobile_image": "shopify://shop_images/savoir_bricklane-5148.jpg",
+            "mobile-caption-heading-size": 18,
             "mobile-caption-body-text-size": 16,
-            "mobile_text_position": "center_left",
+            "mobile_text_position": "bottom_right",
             "image_overlay": "#262428",
             "image_overlay_opacity": 0,
             "caption-text": "#242424",
@@ -87,7 +89,8 @@
         "image_MDUBVG": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-108.jpg",
+            "desktop_image": "shopify://shop_images/savoir_bricklane-5389.jpg",
+            "mobile_image": "shopify://shop_images/savoir_bricklane-5389.jpg",
             "heading": "",
             "heading_size": 30,
             "button_label": "",
@@ -105,7 +108,8 @@
         "image_nwiMV7": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-153_ceb4f87e-f341-4a33-9d4b-9a5dc79288d9.jpg",
+            "desktop_image": "shopify://shop_images/savoir_bricklane-4924.jpg",
+            "mobile_image": "shopify://shop_images/savoir_bricklane-4924.jpg",
             "heading": "",
             "heading_size": 30,
             "button_label": "",
@@ -123,7 +127,8 @@
         "image_bD7wna": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-280_6c36a0db-03d2-4eb3-a80e-cd032fb575f4.jpg",
+            "desktop_image": "shopify://shop_images/savoir_bricklane-5194.jpg",
+            "mobile_image": "shopify://shop_images/savoir_bricklane-5194.jpg",
             "heading": "",
             "heading_size": 30,
             "button_label": "",
@@ -141,7 +146,8 @@
         "image_UcjG4c": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/08_12_Savoir_pinkhouse_3mb-51_0e3e315b-c8f7-4980-b586-707d95bc87c2.jpg",
+            "desktop_image": "shopify://shop_images/savoir_bricklane-5148.jpg",
+            "mobile_image": "shopify://shop_images/savoir_bricklane-5148.jpg",
             "heading": "",
             "heading_size": 30,
             "button_label": "",
