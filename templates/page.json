@@ -14,7 +14,7 @@
       "name": "t:sections.image--image-with-text-overlay.presets.name",
       "settings": {
         "image": "shopify://shop_images/Screenshot_2025-09-03_at_16.47.24.png",
-        "image_height": "original",
+        "image_height": "30vw",
         "bg_image_overlay_opacity": 0,
         "parallax": true,
         "title": "Birthday Photo Shoot",
@@ -30,13 +30,6 @@
         "button-background": "#262428",
         "hover-button-text": "#ffffff",
         "hover-button-background": "#494949"
-      }
-    },
-    "main": {
-      "type": "template--page",
-      "settings": {
-        "page_title_enabled": true,
-        "page_width": "full-width"
       }
     },
     "video_video_JiiUtT": {
@@ -114,6 +107,13 @@
         "content-position": "hide"
       }
     },
+    "main": {
+      "type": "template--page",
+      "settings": {
+        "page_title_enabled": true,
+        "page_width": "narrow"
+      }
+    },
     "image_gallery_x7ra6x": {
       "type": "image--gallery",
       "blocks": {
@@ -176,9 +176,9 @@
   },
   "order": [
     "image_image_with_text_overlay_HUp7Rq",
-    "main",
     "video_video_JiiUtT",
     "image_gallery_M4dd8W",
+    "main",
     "image_gallery_x7ra6x"
   ]
 }
