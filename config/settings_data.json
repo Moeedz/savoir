@@ -119,6 +119,11 @@
         "type": "shopify://apps/preorder-now-wolf/blocks/app-embed/7ee1d740-e67b-4ea8-b0c9-1f62cb8777ec",
         "disabled": false,
         "settings": {}
+      },
+      "12439146293631897289": {
+        "type": "shopify://apps/blockify-fraud-filter/blocks/app_embed/2e3e0ba5-0e70-447a-9ec5-3bf76b5ef12e",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
