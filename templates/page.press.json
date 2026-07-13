@@ -179,6 +179,21 @@
         "button_label": "Read the article",
         "button_link": "https://i-m-magazine.com/fashion/savoir-vivre/"
       }
+    },
+    "image_image_with_text_3TWkTP": {
+      "type": "image--image-with-text",
+      "settings": {
+        "colors": "white",
+        "image": "shopify://shop_images/IMG_1470.png",
+        "text_overlapping_image": false,
+        "section-width": "content",
+        "layout": "left",
+        "text_alignment": "left",
+        "title": "GOOD HOUSEKEEPING",
+        "text": "",
+        "button_label": "Read the article",
+        "button_link": "https://www.goodhousekeeping.com/uk/lifestyle/a70893428/sara-cox-disordered-eating/"
+      }
     }
   },
   "order": [
@@ -188,6 +203,7 @@
     "image_image_with_text_DrDQCY",
     "image_image_with_text_mHWt8c",
     "image_image_with_text_KzmHYR",
-    "image_image_with_text_d63tf3"
+    "image_image_with_text_d63tf3",
+    "image_image_with_text_3TWkTP"
   ]
 }
